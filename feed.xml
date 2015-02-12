@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lachlan Nuttall - Art+code process</title>
+		<description>Process blog of Lachlan Nuttall</description>		
+		<link>http://goldencannon.com</link>
+		<atom:link href="http://goldencannon.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Tutorial illustrations</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/tute-icons.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/tute-icons-1536by887-b89aaa.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/tute-icons-768by444-b89aaa.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/tute-icons-900by520-b89aaa.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/tute-icons-450by260-b89aaa.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/tute-icons-450by260-b89aaa.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Tutorial illustrations&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+</description>
+				<pubDate>Mon, 09 Feb 2015 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2015/02/09/tutorial-illustrations/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2015/02/09/tutorial-illustrations/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Meet the crew</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ball-big-0.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-0-900by900-c45477.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-0-450by450-c45477.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ball-big-0-450by450-c45477.png&quot; class=&quot;post-pic-med&quot; alt=&quot;CSalty&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Salty&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ball-big-1.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-1-900by900-cc9723.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-1-450by450-cc9723.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ball-big-1-450by450-cc9723.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Dickie&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Dickie&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ball-big-2.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-2-900by900-45a07c.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-2-450by450-45a07c.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ball-big-2-450by450-45a07c.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Bruiser&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Bruiser&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ball-big-3.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-3-900by900-e08a80.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ball-big-3-450by450-e08a80.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ball-big-3-450by450-e08a80.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Rolly&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Rolly&lt;/p&gt;
+</description>
+				<pubDate>Mon, 09 Feb 2015 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2015/02/09/meet-the-crew/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2015/02/09/meet-the-crew/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Sacrifices</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/sacrifices.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/sacrifices-1536by1198-5e87b5.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/sacrifices-768by599-5e87b5.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/sacrifices-900by702-5e87b5.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/sacrifices-450by351-5e87b5.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/sacrifices-450by351-5e87b5.jpg&quot; class=&quot;post-pic-full&quot; alt=&quot;Sacrifice list&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Often sacrifices must be made to get the game over the line. Sometimes this includes making balls telepathic so their lips don’t move. Alternative: they happen to be eating a big sandwich or reading a book. &lt;/p&gt;
+</description>
+				<pubDate>Fri, 06 Feb 2015 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2015/02/06/sacrifices/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2015/02/06/sacrifices/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Choosing a game name</title>
+				<description>&lt;p&gt;Choosing a game name stopped being fun 500 iterations ago. The original name “Golden Cannon” did
+not feel right for how the game has turned out. Here is my criteria for success:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Memorable and short&lt;/li&gt;
+  &lt;li&gt;Availability: App store, domain availability, avoids trademark violations&lt;/li&gt;
+  &lt;li&gt;The mood: Mysterious &lt;/li&gt;
+  &lt;li&gt;The location: Ocean and Ships&lt;/li&gt;
+  &lt;li&gt;The genre: Puzzles&lt;/li&gt;
+  &lt;li&gt;The core mechanic: Tilting &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first 2 points seem to conflict for most ideas. With over a million apps in the iOS store alone, 
+many memorable and short app names are taken. Here are a few amassed with the help of my brother Keir.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Abraxis&lt;/li&gt;
+  &lt;li&gt;Ebb&lt;/li&gt;
+  &lt;li&gt;Eon&lt;/li&gt;
+  &lt;li&gt;Kraken&lt;/li&gt;
+  &lt;li&gt;Nero&lt;/li&gt;
+  &lt;li&gt;Slant&lt;/li&gt;
+  &lt;li&gt;Angular&lt;/li&gt;
+  &lt;li&gt;Arcamedes&lt;/li&gt;
+  &lt;li&gt;Socrates&lt;/li&gt;
+  &lt;li&gt;The Rolling Curse&lt;/li&gt;
+  &lt;li&gt;Octavius&lt;/li&gt;
+  &lt;li&gt;Angulus&lt;/li&gt;
+  &lt;li&gt;Manchuria&lt;/li&gt;
+  &lt;li&gt;The Manchurian Curse&lt;/li&gt;
+  &lt;li&gt;Cassandra&lt;/li&gt;
+  &lt;li&gt;Siren&lt;/li&gt;
+  &lt;li&gt;Saxon&lt;/li&gt;
+  &lt;li&gt;Britanic &lt;/li&gt;
+  &lt;li&gt;Lost&lt;/li&gt;
+  &lt;li&gt;Baychimo&lt;/li&gt;
+  &lt;li&gt;Pequod &lt;/li&gt;
+  &lt;li&gt;Pequad&lt;/li&gt;
+  &lt;li&gt;Titan&lt;/li&gt;
+  &lt;li&gt;Madrigal &lt;/li&gt;
+  &lt;li&gt;Juniper&lt;/li&gt;
+  &lt;li&gt;Europa&lt;/li&gt;
+  &lt;li&gt;Celeste&lt;/li&gt;
+  &lt;li&gt;Aurora&lt;/li&gt;
+  &lt;li&gt;Arabella&lt;/li&gt;
+  &lt;li&gt;Arcadia&lt;/li&gt;
+  &lt;li&gt;Caspar&lt;/li&gt;
+  &lt;li&gt;Dragon fish&lt;/li&gt;
+  &lt;li&gt;Erebus&lt;/li&gt;
+  &lt;li&gt;Esmerelda&lt;/li&gt;
+  &lt;li&gt;Cyclades&lt;/li&gt;
+  &lt;li&gt;Antilla&lt;/li&gt;
+  &lt;li&gt;Antinov&lt;/li&gt;
+  &lt;li&gt;Bellatrix&lt;/li&gt;
+  &lt;li&gt;Covenant&lt;/li&gt;
+  &lt;li&gt;Dulcibella&lt;/li&gt;
+  &lt;li&gt;Candle fish&lt;/li&gt;
+  &lt;li&gt;Julius &lt;/li&gt;
+  &lt;li&gt;Wake&lt;/li&gt;
+  &lt;li&gt;Kittiwake&lt;/li&gt;
+  &lt;li&gt;Nautilus&lt;/li&gt;
+  &lt;li&gt;Nemisis&lt;/li&gt;
+  &lt;li&gt;Pyramus&lt;/li&gt;
+  &lt;li&gt;Siren&lt;/li&gt;
+  &lt;li&gt;Ulysses &lt;/li&gt;
+  &lt;li&gt;Nonsuch &lt;/li&gt;
+  &lt;li&gt;Seven seas&lt;/li&gt;
+  &lt;li&gt;Astrolab &lt;/li&gt;
+  &lt;li&gt;Nimrod&lt;/li&gt;
+  &lt;li&gt;Vex&lt;/li&gt;
+  &lt;li&gt;Afloat&lt;/li&gt;
+  &lt;li&gt;Shore&lt;/li&gt;
+  &lt;li&gt;Thunder&lt;/li&gt;
+  &lt;li&gt;Keel&lt;/li&gt;
+  &lt;li&gt;Dark blue sea&lt;/li&gt;
+  &lt;li&gt;Deep blue sea&lt;/li&gt;
+  &lt;li&gt;Keel haul&lt;/li&gt;
+  &lt;li&gt;Thunder strike&lt;/li&gt;
+  &lt;li&gt;Deep blue sea&lt;/li&gt;
+  &lt;li&gt;Heeve ho&lt;/li&gt;
+  &lt;li&gt;The deep blue&lt;/li&gt;
+  &lt;li&gt;Jinx&lt;/li&gt;
+  &lt;li&gt;Hydra&lt;/li&gt;
+  &lt;li&gt;Roll, pitch and yaw&lt;/li&gt;
+  &lt;li&gt;Ponder&lt;/li&gt;
+  &lt;li&gt;Reflect&lt;/li&gt;
+  &lt;li&gt;Deep&lt;/li&gt;
+  &lt;li&gt;Vex&lt;/li&gt;
+  &lt;li&gt;Mystery Ship&lt;/li&gt;
+  &lt;li&gt;Adrift&lt;/li&gt;
+  &lt;li&gt;Paradox&lt;/li&gt;
+  &lt;li&gt;Calm waters&lt;/li&gt;
+  &lt;li&gt;Abandon ship&lt;/li&gt;
+  &lt;li&gt;Rickets &lt;/li&gt;
+  &lt;li&gt;Scurvey &lt;/li&gt;
+  &lt;li&gt;Rock steady&lt;/li&gt;
+  &lt;li&gt;Jump ship&lt;/li&gt;
+  &lt;li&gt;Calm&lt;/li&gt;
+  &lt;li&gt;Abandoned &lt;/li&gt;
+  &lt;li&gt;Curse&lt;/li&gt;
+  &lt;li&gt;Serenity&lt;/li&gt;
+  &lt;li&gt;Spark&lt;/li&gt;
+  &lt;li&gt;Thunder&lt;/li&gt;
+  &lt;li&gt;Torment&lt;/li&gt;
+  &lt;li&gt;Perplex&lt;/li&gt;
+  &lt;li&gt;Boggle&lt;/li&gt;
+  &lt;li&gt;Liberate&lt;/li&gt;
+  &lt;li&gt;Free&lt;/li&gt;
+  &lt;li&gt;Prison&lt;/li&gt;
+  &lt;li&gt;Languish &lt;/li&gt;
+  &lt;li&gt;Captive&lt;/li&gt;
+  &lt;li&gt;Hinge&lt;/li&gt;
+  &lt;li&gt;Vault&lt;/li&gt;
+  &lt;li&gt;Imprison&lt;/li&gt;
+  &lt;li&gt;Ignite&lt;/li&gt;
+  &lt;li&gt;Turret &lt;/li&gt;
+  &lt;li&gt;Tumble&lt;/li&gt;
+  &lt;li&gt;Open Sesame&lt;/li&gt;
+  &lt;li&gt;Unshackle&lt;/li&gt;
+  &lt;li&gt;Lock pick&lt;/li&gt;
+  &lt;li&gt;Nauticus&lt;/li&gt;
+  &lt;li&gt;Tumble ship&lt;/li&gt;
+  &lt;li&gt;Escape maker&lt;/li&gt;
+  &lt;li&gt;Loaded&lt;/li&gt;
+  &lt;li&gt;Deck jump&lt;/li&gt;
+  &lt;li&gt;Wooden prison&lt;/li&gt;
+  &lt;li&gt;Mutany&lt;/li&gt;
+  &lt;li&gt;Acheron&lt;/li&gt;
+  &lt;li&gt;Battery&lt;/li&gt;
+  &lt;li&gt;Gun crew&lt;/li&gt;
+  &lt;li&gt;Blockade&lt;/li&gt;
+  &lt;li&gt;Armada&lt;/li&gt;
+  &lt;li&gt;Galleon&lt;/li&gt;
+  &lt;li&gt;Ironclad&lt;/li&gt;
+  &lt;li&gt;Axiom&lt;/li&gt;
+  &lt;li&gt;Wick and Spark&lt;/li&gt;
+  &lt;li&gt;Spark Point&lt;/li&gt;
+  &lt;li&gt;Spark Chamber&lt;/li&gt;
+  &lt;li&gt;Dark Chamber&lt;/li&gt;
+  &lt;li&gt;Chamber view&lt;/li&gt;
+  &lt;li&gt;Chamber &lt;/li&gt;
+  &lt;li&gt;Fuse / fuze&lt;/li&gt;
+  &lt;li&gt;Lit&lt;/li&gt;
+  &lt;li&gt;Grommet&lt;/li&gt;
+  &lt;li&gt;Quoin&lt;/li&gt;
+  &lt;li&gt;Mandrel&lt;/li&gt;
+  &lt;li&gt;Breechblock&lt;/li&gt;
+  &lt;li&gt;Howitzer&lt;/li&gt;
+  &lt;li&gt;Total Recoil&lt;/li&gt;
+  &lt;li&gt;Iron Chamber&lt;/li&gt;
+  &lt;li&gt;Chase&lt;/li&gt;
+  &lt;li&gt;Chase Chamber&lt;/li&gt;
+  &lt;li&gt;Muzzle &lt;/li&gt;
+  &lt;li&gt;Tilt Deck&lt;/li&gt;
+  &lt;li&gt;Captain Salty&lt;/li&gt;
+  &lt;li&gt;Salty Rocker&lt;/li&gt;
+  &lt;li&gt;Hot Cannon&lt;/li&gt;
+  &lt;li&gt;Together&lt;/li&gt;
+  &lt;li&gt;Roll vault&lt;/li&gt;
+  &lt;li&gt;Roll vaulter&lt;/li&gt;
+  &lt;li&gt;We roll&lt;/li&gt;
+  &lt;li&gt;Together We Roll&lt;/li&gt;
+  &lt;li&gt;Oberon&lt;/li&gt;
+  &lt;li&gt;Rakish&lt;/li&gt;
+  &lt;li&gt;Rake &lt;/li&gt;
+  &lt;li&gt;Azores&lt;/li&gt;
+  &lt;li&gt;Epoch Lost&lt;/li&gt;
+  &lt;li&gt;Black Pearl&lt;/li&gt;
+  &lt;li&gt;Olm&lt;/li&gt;
+  &lt;li&gt;Osmol &lt;/li&gt;
+  &lt;li&gt;Quoz&lt;/li&gt;
+  &lt;li&gt;Lament&lt;/li&gt;
+  &lt;li&gt;Iron seas&lt;/li&gt;
+  &lt;li&gt;Quarter Master&lt;/li&gt;
+  &lt;li&gt;Thunderous depths&lt;/li&gt;
+  &lt;li&gt;Depth charger&lt;/li&gt;
+  &lt;li&gt;Blazing depths&lt;/li&gt;
+  &lt;li&gt;Firey depths&lt;/li&gt;
+  &lt;li&gt;Shaken&lt;/li&gt;
+  &lt;li&gt;Lost Souls&lt;/li&gt;
+  &lt;li&gt;Iron souls&lt;/li&gt;
+  &lt;li&gt;Rolling &lt;/li&gt;
+  &lt;li&gt;Iron moon&lt;/li&gt;
+  &lt;li&gt;Star kin&lt;/li&gt;
+  &lt;li&gt;Ghosts of colossus&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Fri, 06 Feb 2015 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2015/02/06/choosing-a-game-name/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2015/02/06/choosing-a-game-name/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Ball characters</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/faces.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/faces-1536by1129-1f7440.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/faces-768by565-1f7440.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/faces-900by662-1f7440.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/faces-450by331-1f7440.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/faces-450by331-1f7440.jpg&quot; class=&quot;post-pic-full&quot; alt=&quot;Cannon ball faces&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;At a crucial moment the balls reveal themselves to be ragged but doe-eyed pirates.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 05 Feb 2015 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2015/02/05/ball-characters/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2015/02/05/ball-characters/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Satisfying puzzle level design</title>
+				<description>&lt;p&gt;What makes a puzzle satisfying? Having a puzzle design philosophy really helps resolve design choices.
+These are a few of my thoughts on what makes a good level:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The illusion of simplicity&lt;/strong&gt;&lt;br /&gt;
+When the user glances at the level it might look pretty straight forward. They have a go but realize that it’s not so simple after all. Preferably this realisation takes as long as possible 
+to occur. &lt;/p&gt;
+
+&lt;p&gt;This false narrative may be cunning but we don’t want to use any red herrings or
+dirty tricks. Remember the user is not our enemy - we want them to feel accomplishment not
+resentment after solving the level. Games are supposed to be fun, aren’t they? So be playful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Questioning assumptions&lt;/strong&gt;&lt;br /&gt;
+Perhaps after trying to use brute force to solve the level, the user has to actually think and be creative. 
+There seems to be a natural barrier to this for most people.&lt;/p&gt;
+
+&lt;p&gt;The user is required to go back to the beginning and analyse some of the choices and 
+assumptions they made along the way. They experiment and feel out different branches of consequence - each choice
+seems to have unexpected repercussions that are hopefully unexpected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A narrative appears&lt;/strong&gt;&lt;br /&gt;
+The user must experiment over and over, slowly unraveling the puzzle to reach a solution. 
+They know they are on the right track because a pattern appears in the chaos. &lt;/p&gt;
+
+&lt;p&gt;This pattern could be anything, and is difficult to describe in general terms, but it acts 
+as a sign that the puzzle was designed by a human. A secret conversation that is earned by the user’s thoughts and imagination.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Level complete!&lt;/strong&gt;&lt;br /&gt;
+The user feels like a smarty pants. They were toyed with, though never tricked. They’ve been surprised and 
+rewarded for questioning their assumptions with an interesting narrative / pattern that gradually revealed itself.
+They were forced to be analytical and creative along the way.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other thoughts&lt;/strong&gt;&lt;br /&gt;
+This approach is more for early levels.&lt;/p&gt;
+
+&lt;p&gt;As levels get more advanced and introductions are out of the way then a different class of puzzle emerge. I call these types of puzzles “grinders” and 
+they are for seasoned players who know all your tricks. They look complex - the illusion of simplicity can be dispensed with - and they take a 
+long time to solve. They also tend to have less of a narrative / pattern. The aim here is to let the user dwell in their analytic computations for as long as possible.&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 23 Jan 2015 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2015/01/23/satisfying-puzzle-level-design/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2015/01/23/satisfying-puzzle-level-design/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Gold Cannon</title>
+				<description>&lt;p&gt;In other news it would appear that this site’s sister URL 
+&lt;a href=&quot;http://goldcannon.com/&quot; target=&quot;_blank&quot;&gt;goldcannon.com&lt;/a&gt; is a brand of Chinese
+condom? More details as they become available.&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 28 Aug 2014 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2014/08/28/gold-cannon/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2014/08/28/gold-cannon/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Level editor</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/GC-Level-Editor-Screenshot.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-1467by1023-031a4f.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-768by536-031a4f.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-900by628-031a4f.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-450by314-031a4f.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-450by314-031a4f.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Manowar level editor screenshot&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The level editor for Manowar was built in Flash. &lt;/p&gt;
+
+&lt;p&gt;This was for a few reasons, mainly for it’s visual focus, the handy component system as 
+well as the ability to write helper JSFLs to add functionality to the Flash authoring 
+environment.&lt;/p&gt;
+
+&lt;p&gt;The basic workflow is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A JSFL linked to a keyboard shortcut creates a new unique level based on a template sprite.&lt;/li&gt;
+  &lt;li&gt;Flash components representing each game object are dragged and dropped onto the level 
+and component params adjusted to suit.&lt;/li&gt;
+  &lt;li&gt;Layout is cleaned up with built in alignment tools and custom ‘snap to pixels’ JSFL.&lt;/li&gt;
+  &lt;li&gt;A keyboard short cut launches the AIR file which saves serialised level data directly into the 
+project directory and then runs XCode.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Working in the IDE had other unforeseen advantages, such as the ability to create a guide
+layer to sketch the planning of the level. SPOILER ALERT below.&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/Level-editor-sketch.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/Level-editor-sketch-629by943-bda1a3.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/Level-editor-sketch-450by675-bda1a3.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/Level-editor-sketch-450by675-bda1a3.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Level editor planning sketch&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The above may look like a speed addict’s scrawling on a toilet stall, though these
+lines actually help plan the level while building it.&lt;/p&gt;
+
+&lt;p&gt;The IDE editor was very quick to build and the component system makes it a breeze to add 
+new game objects when needed. Its biggest downside is that no-one else can 
+have a go at making new levels without first having Flash on their computer. This proved 
+inconvenient and limiting. It’s a shame there was such a barrier to getting some fresh 
+perspectives on level design. &lt;/p&gt;
+
+&lt;p&gt;At the end of the day though the other advantages of the system, chiefly its rapid 
+development and ease of use, have justified going down this path.&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 26 Aug 2014 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2014/08/26/level-editor/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2014/08/26/level-editor/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Stage art</title>
+				<description>&lt;p&gt;A new mechanic is introduced in each stage as outlined below:&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/stage-art-A4.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/stage-art-A4-640by1070-6a367f.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/stage-art-A4-450by752-6a367f.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/stage-art-A4-450by752-6a367f.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;Stage A&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stage Abraxas&lt;/strong&gt; - the first stage - is pretty basic with black cannons and balls only.&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/stage-art-B17.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/stage-art-B17-640by1070-620e54.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/stage-art-B17-450by752-620e54.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/stage-art-B17-450by752-620e54.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;Stage B&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stage Blepsei&lt;/strong&gt; introduces colour. Coloured cannons only affect their corresponding 
+colour balls and rotating platforms.&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/stage-art-G7.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/stage-art-G7-640by1070-33b289.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/stage-art-G7-450by752-33b289.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/stage-art-G7-450by752-33b289.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;Stage C&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stage Gnosis&lt;/strong&gt; - the final stage - features booths that swap the colour of any balls 
+that roll through them. &lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 04 Jul 2014 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2014/07/04/stage-art/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2014/07/04/stage-art/index.html</guid>
+			</item>
+		
+			<item>
+				<title>Game completion</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/End-game-animation.final.gif&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;/img/hires/End-game-animation.final.gif&quot; alt=&quot;&quot; class=&quot;post-pic-med&quot; /&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;If you’ve made it all the way to the end of the game you need to get something for your efforts. 
+In this work in progress the balls go all boy band and present themselves, one by one, to the player.
+Not very clear at this point what they would say. &lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 03 Jul 2014 00:00:00 +1000</pubDate>
+				<link>http://goldencannon.com/blog/2014/07/03/game-completion/index.html</link>
+				<guid isPermaLink="true">http://goldencannon.com/blog/2014/07/03/game-completion/index.html</guid>
+			</item>
+		
+	</channel>
+</rss>
