@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<div class="container">
+  
+<div class="row">
+<div class="col-md-8">
+
+{% include post-details.html post=page %}
+
+
+<ul class="pager">
+{% if !page.previous %}
+  <li class="previous"><a href="{{ page.previous.url | replace:'index.html','' }}" title="{{ page.previous.title }}" >&larr; Older</a></li>
+{% else %}
+  <li class="previous disabled"><a href="#">&larr; Older</a></li>
+{% endif %}
+
+{% if !page.next %}
+  <li class="next"><a href="{{ page.next.url | replace:'index.html','' }}" title="{{ page.next.title }}" >Newer &rarr;</a></li>
+{% else %}
+  <li class="next disabled"><a href="#">Newer &rarr;</a></li>
+{% endif %}
+
+</ul>
+
+
+
+{% include page-comments.html page=page %}
+
+</div>
+<div class="col-md-4">
+
+
+
+{% include about-blurb.html %}
+
+
+
+
+<h4>Related Posts</h4>
+
+{% for post in site.related_posts limit:3 %}
+<a href="{{ post.url | replace:'index.html','' }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+{% endfor %}
+
+{% comment %}
+
+{% for post in site.categories.[page.category] %}
+	{% if post.id != page.id %}
+    	<p><a href="{{ include.post.url | replace:'index.html','' }}" >{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+
+{% endcomment %}
+
+
+
+</div>
+</div><!--/.row -->
+
+
+
+
+
+</div><!--/.container -->
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+{% comment %}
+<!--
+	
+Usage:
+{% include post-details.html post=page %}
+
+-->	
+{% endcomment %}
+
+<h4 >
+{% if (include.post.id != page.id) %}
+<a href="{{ include.post.url | replace:'index.html','' }}" >
+{% else %}
+<a href="/blog/" >«</a>
+{% endif %}
+{{ include.post.category | capitalize | replace:'-',' '}}: {{ include.post.title }}
+{% if (include.post.id != page.id) %}
+</a>
+{% endif %}
+</h4> 
+
+
+{% if (include.post.id == page.id) %}
+{{ content }}
+{% else %}
+{{ include.post.content }}
+{% endif %}
+
+<small class="post-meta" >Posted by <strong>Loks</strong> to <strong>{{ include.post.category | capitalize | replace:'-',' '}}</strong> | {{ include.post.date | date: "%-d %B %Y" }} 
+{% if include.post.comments and include.post.id != page.id %}
+| <a href="{{ include.post.url | replace:'index.html','' }}" data-disqus-identifier="{{ include.post.id }}">Read more»</a>
+{% endif %}
+</small>

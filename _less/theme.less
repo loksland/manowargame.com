@@ -1,0 +1,262 @@
+@import "../_bower_components/bootstrap/less/bootstrap.less";
+@import "variables.less"; 
+
+@footer-height:            35px;
+
+.reviews {
+	font-family: @font-family-serif;
+	font-weight: 300;
+	color: #EEE; 
+	font-size: 20px;
+} 
+
+.reviews p {
+	margin-bottom:25px;
+}
+
+.rhs {
+	text-align:right;
+}
+
+@media(max-width: @screen-tablet){
+
+	.rhs {
+		text-align:left;
+	}
+
+	#footer p{
+		text-align:left;
+	}
+
+} 
+
+@media(max-width: @screen-xs){
+	.small-hide {
+		display:none;
+	}
+}
+
+@media(min-width: @screen-xs){
+	.small-show {
+		display:none;
+	}
+}
+
+
+a.pic {
+	padding-top:12px !important;
+	padding-bottom:0px !important;
+	padding-left:0 !important;
+}
+
+body {
+
+	background: #000202; /* Old browsers */
+	background: -moz-linear-gradient(top,  #000202 0%, #0c3544 41%, #0c3544 41%, #07383a 98%, #c3c77f 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000202), color-stop(41%,#0c3544), color-stop(41%,#0c3544), color-stop(98%,#07383a), color-stop(100%,#c3c77f)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #000202 0%,#0c3544 41%,#0c3544 41%,#07383a 98%,#c3c77f 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #000202 0%,#0c3544 41%,#0c3544 41%,#07383a 98%,#c3c77f 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #000202 0%,#0c3544 41%,#0c3544 41%,#07383a 98%,#c3c77f 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #000202 0%,#0c3544 41%,#0c3544 41%,#07383a 98%,#c3c77f 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000202', endColorstr='#c3c77f',GradientType=0 ); /* IE6-9 */
+
+
+
+	/*
+	http://www.colorzilla.com/gradient-editor/
+	*/
+	
+	/* Margin bottom by footer height */
+   	margin-bottom: @footer-height+30;
+   	padding-top: @navbar-height+20;
+   	
+} 
+
+.banner {
+ background-image:url(../img/stars.png);
+ background-repeat:repeat-x;
+ background-position:center 0px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+#footer {
+  position: absolute; 
+  font-weight:400;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: @footer-height; 
+  text-align:center;
+}
+
+#footer p {
+	margin-bottom:0;  
+	color:#092934;
+}
+
+.call-to-action { 
+	padding-top:15.5px;
+	background-color:#f10f63; 	
+	margin-bottom:25px;
+}
+
+.call-to-action { 
+	font-size:27px;
+	color:#000;	
+}
+
+.play {
+	font-family: @font-family-serif;
+	font-weight:600;
+	font-size:20px;
+	line-height:100%;
+	margin-bottom: 10px;
+}
+
+.play img {
+	margin-left:8px;
+	margin-top:5px;
+}
+
+p.bg-info {
+	padding:7px;
+}
+
+p.bg-info a{
+	color:#000;
+}
+
+a.screenshot img{
+	margin-right:15px;
+	margin-bottom:15px;
+}
+
+dd {
+	margin-bottom:11px;
+}
+
+/*
+.container-fluid {
+	padding-left:0;
+	padding-right:0;
+}
+*/
+
+.cross-section {
+	display: inline-block;
+	width:78px;
+	height:114px;
+}
+
+.title-banner {
+
+	display: inline-block;
+}
+
+@media(max-width: @screen-xs){
+
+	.cross-section {
+		display:none;
+	}
+	
+	.small-wrap {
+		display:block;
+	}
+	
+}
+
+@media(max-width: @screen-md){
+
+	.cs-outer {
+		display:none;
+	}
+
+}    
+@media(max-width: @screen-tablet){
+
+	.cs-middle {
+		display:none;
+	}
+	
+}   
+
+.lhs {
+	margin-right:50px;
+}
+
+.rhs {
+	margin-left:50px;
+}
+
+@media(min-width: @screen-lg){
+
+	.lhs {
+		margin-right:70px;
+	}
+
+	.rhs {
+		margin-left:70px;
+	}
+
+} 
+
+@media(min-width: @screen-md){
+
+	.no-h3 {
+		padding-top:27px;
+	}
+}
+
+
+.screenshots div { 
+	text-align:center;
+}
+
+.screenshots img {
+	max-width:100%;
+}
+
+.post-meta {
+	color: @gray-light
+}
+
+.img-wrapper {
+	background-color: fade(#000, 20%);
+}
+
+
+/* Post - 100% width */
+
+.post-pic-full {
+	width: 100%;
+}
+
+/* Post - 100% up to 480px then no more than 480px-2x15px */
+
+@media(max-width: 480px){
+	img.post-pic-med {
+		width: 100%;
+	}
+}
+
+@media(min-width: 480px){
+	img.post-pic-med {
+		width: 450px;
+	}
+}
+
+/* Post - Locked to 320px-2x15px padding */
+
+img.post-pic-small {
+	width:290px;
+}
+
+.screenshots {
+	.lead {
+		margin-top: 5px;
+	}
+}

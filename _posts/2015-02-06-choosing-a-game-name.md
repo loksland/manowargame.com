@@ -1,0 +1,189 @@
+---
+layout: post
+title: Choosing a game name
+category: marketing
+comments: true
+---
+
+Choosing a game name stopped being fun 500 iterations ago. The original name "Golden Cannon" did
+not feel right for how the game has turned out. Here is my criteria for success:
+
+- Memorable and short
+- Availability: App store, domain availability, avoids trademark violations
+- The mood: Mysterious 
+- The location: Ocean and Ships
+- The genre: Puzzles
+- The core mechanic: Tilting 
+
+The first 2 points seem to conflict for most ideas. With over a million apps in the iOS store alone, 
+many memorable and short app names are taken. Here are a few amassed with the help of my brother Keir.
+
+- Abraxis
+- Ebb
+- Eon
+- Kraken
+- Nero
+- Slant
+- Angular
+- Arcamedes
+- Socrates
+- The Rolling Curse
+- Octavius
+- Angulus
+- Manchuria
+- The Manchurian Curse
+- Cassandra
+- Siren
+- Saxon
+- Britanic 
+- Lost
+- Baychimo
+- Pequod 
+- Pequad
+- Titan
+- Madrigal 
+- Juniper
+- Europa
+- Celeste
+- Aurora
+- Arabella
+- Arcadia
+- Caspar
+- Dragon fish
+- Erebus
+- Esmerelda
+- Cyclades
+- Antilla
+- Antinov
+- Bellatrix
+- Covenant
+- Dulcibella
+- Candle fish
+- Julius 
+- Wake
+- Kittiwake
+- Nautilus
+- Nemisis
+- Pyramus
+- Siren
+- Ulysses 
+- Nonsuch 
+- Seven seas
+- Astrolab 
+- Nimrod
+- Vex
+- Afloat
+- Shore
+- Thunder
+- Keel
+- Dark blue sea
+- Deep blue sea
+- Keel haul
+- Thunder strike
+- Deep blue sea
+- Heeve ho
+- The deep blue
+- Jinx
+- Hydra
+- Roll, pitch and yaw
+- Ponder
+- Reflect
+- Deep
+- Vex
+- Mystery Ship
+- Adrift
+- Paradox
+- Calm waters
+- Abandon ship
+- Rickets 
+- Scurvey 
+- Rock steady
+- Jump ship
+- Calm
+- Abandoned 
+- Curse
+- Serenity
+- Spark
+- Thunder
+- Torment
+- Perplex
+- Boggle
+- Liberate
+- Free
+- Prison
+- Languish 
+- Captive
+- Hinge
+- Vault
+- Imprison
+- Ignite
+- Turret 
+- Tumble
+- Open Sesame
+- Unshackle
+- Lock pick
+- Nauticus
+- Tumble ship
+- Escape maker
+- Loaded
+- Deck jump
+- Wooden prison
+- Mutany
+- Acheron
+- Battery
+- Gun crew
+- Blockade
+- Armada
+- Galleon
+- Ironclad
+- Axiom
+- Wick and Spark
+- Spark Point
+- Spark Chamber
+- Dark Chamber
+- Chamber view
+- Chamber 
+- Fuse / fuze
+- Lit
+- Grommet
+- Quoin
+- Mandrel
+- Breechblock
+- Howitzer
+- Total Recoil
+- Iron Chamber
+- Chase
+- Chase Chamber
+- Muzzle 
+- Tilt Deck
+- Captain Salty
+- Salty Rocker
+- Hot Cannon
+- Together
+- Roll vault
+- Roll vaulter
+- We roll
+- Together We Roll
+- Oberon
+- Rakish
+- Rake 
+- Azores
+- Epoch Lost
+- Black Pearl
+- Olm
+- Osmol 
+- Quoz
+- Lament
+- Iron seas
+- Quarter Master
+- Thunderous depths
+- Depth charger
+- Blazing depths
+- Firey depths
+- Shaken
+- Lost Souls
+- Iron souls
+- Rolling 
+- Iron moon
+- Star kin
+- Ghosts of colossus

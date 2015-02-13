@@ -1,0 +1,78 @@
+# JEKYLL CONFIG
+exclude: 
+  - _less
+  - _assets
+  - _bower_components
+  - bower.json
+  - node_modules
+  - package.json
+paginate: 5
+# Urls
+permalink: blog/:year/:month/:day/:title/index.html
+# For RSS feed: 
+name: Manowar dev blog
+description: Development blog for Manowar, a puzzle game for iPhone and iPad
+url: http://manowargame.com
+# Jekyll image tag
+image:
+  source: img/hires
+  output: img-resized  
+  presets:
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    half:
+      width: 400
+      height: 400
+# Jekyll picture tag
+picture:
+  source: img/hires
+  output: img-resized
+  markup: "picture"
+  presets:
+    # Default - for 8 col 
+    default:
+      ppi: [1, 2]
+      attr:
+        class: "post-pic"
+      source_lrg:
+        media: "(min-width: 1200px)"
+        width: 700
+      source_med:
+        media: "(min-width: 640px)"
+        width: 620
+      source_default:
+        width: 350
+    # Post - 100% width
+    post_full:
+      ppi: [1,2]
+      attr:
+        class: "post-pic-full"
+      source_lrg:
+        media: "(min-width: 480px)"
+        width: 768
+      source_default:
+        width: 450
+    # Post - 100% up to 480px then no more than 480px-2x15px
+    post_med:
+      ppi: [1, 2]
+      attr:
+        class: "post-pic-med"
+      source_default:
+        width: 450
+    # Post - Locked to 320px-2x15px padding
+    post_small:
+      ppi: [1, 2]
+      attr:
+        class: "post-pic-small"    
+      source_default:
+        width: 290
+# For ref:        
+# @screen-xs: 480px;
+# @screen-sm: 768px;
+# @screen-md: 992px;
+# @screen-lg: 1200px;        
+        
+        

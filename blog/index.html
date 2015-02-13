@@ -1,0 +1,100 @@
+---
+layout: default
+title: Blog
+---
+
+{% comment %}
+{% image AUTOxAUTO 2014-05-02-splash.jpg %}
+<a href="http://maker.com.au" target="_blank" >{% picture post_tiny jaws.jpg alt="Golden Cannon title screen" %}</a>
+{% endcomment %}
+
+
+
+
+<div class="container">
+
+<div class="row">
+	<div class="col-sm-12">
+	<p class="lead text-center">
+	A ghost ship puzzle game. <a href="/" >Learn more »</a>
+	</p>
+	</div>
+</div><!--/.row-->
+
+ 
+<div class="row">
+<div class="col-md-8">
+
+{% for post in site.posts %}
+    
+{% include post-details.html post=post %}
+<hr>      
+{% endfor %}
+
+
+{% comment %}
+<!--
+
+{% if paginator.previous_page or paginator.next_page  %}
+
+<ul class="pagination">
+	{% if paginator.previous_page %}
+	  {% if paginator.previous_page == 1 %}
+	  <li><a href="/">«</a></li>
+	  {% else %}
+	  <li><a href="/page{{ paginator.previous_page }}">«</a></li>
+	  {% endif %}
+	{% else %}
+	<li class="disabled"><a href="" >«</a></li>
+	{% endif %}
+	{% if paginator.page == 1 %}
+	<li class="active"><a href="" >1 <span class="sr-only">(current)</span></a></li>
+	{% else %}
+	<li><a href="/">1</a></li>
+	{% endif %}
+	{% for count in (2..paginator.total_pages) %}
+	  {% if count == paginator.page %}
+	  <li class="active" ><a href="" >{{ count }} <span class="sr-only">(current)</span></a></li>
+	  {% else %}
+	  <li><a href="/page{{ count }}">{{ count }}</a></li>
+	  {% endif %}
+	{% endfor %}
+	{% if paginator.next_page %}
+	<li><a href="/page{{ paginator.next_page }}">»</a></li>
+	{% else %}
+	<li class="disabled"><a href="" >»</a></li>
+	{% endif %}
+</ul>
+
+{% endif %}
+
+-->
+{% endcomment %}
+
+</div>
+<div class="col-md-4">
+
+{% include about-blurb.html %}
+
+{% include mailing-list.html %}
+
+
+</div>
+</div><!--/.row -->
+</div><!--/.container -->
+
+
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'goldencannon'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+
