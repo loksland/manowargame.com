@@ -7,6 +7,23 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Trailer preview</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/trailer-title.gif&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;/img/hires/trailer-title.gif&quot; alt=&quot;&quot; class=&quot;post-pic-med&quot; /&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Building the trailer now.&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 24 Feb 2015 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2015/02/24/trailer-preview/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/24/trailer-preview/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Tutorial illustrations</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
@@ -524,25 +541,6 @@ that roll through them. &lt;/p&gt;
 				<pubDate>Fri, 04 Jul 2014 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2014/07/04/stage-art/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2014/07/04/stage-art/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Game completion</title>
-				<description>
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/End-game-animation.final.gif&quot; target=&quot;_blank&quot;&gt;
-&lt;img src=&quot;/img/hires/End-game-animation.final.gif&quot; alt=&quot;&quot; class=&quot;post-pic-med&quot; /&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;If you’ve made it all the way to the end of the game you need to get something for your efforts. 
-In this work in progress the balls go all boy band and present themselves, one by one, to the player.
-Not very clear at this point what they would say. &lt;/p&gt;
-
-</description>
-				<pubDate>Thu, 03 Jul 2014 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2014/07/03/game-completion/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2014/07/03/game-completion/index.html</guid>
 			</item>
 		
 	</channel>
