@@ -7,6 +7,20 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Unused sound effects</title>
+				<description>&lt;p&gt;This whole set of guitar sound effects made by Keir Nuttall did not end up being used in 
+the final game.&lt;/p&gt;
+
+&lt;p&gt;They are released for royalty free download on Sound Cloud under a creative commons 
+license:
+&amp;lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/97921138&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 13 Apr 2015 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2015/04/13/unused-sound-effects/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/04/13/unused-sound-effects/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Trailer preview</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
@@ -353,63 +367,6 @@ development and ease of use, have justified going down this path.&lt;/p&gt;
 				<pubDate>Tue, 26 Aug 2014 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2014/08/26/level-editor/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2014/08/26/level-editor/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Stage art</title>
-				<description>&lt;p&gt;A new mechanic is introduced in each stage as outlined below:&lt;/p&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/stage-art-A4.jpg&quot; target=&quot;_blank&quot;&gt;
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/stage-art-A4-640by1070-6a367f.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/stage-art-A4-450by752-6a367f.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/stage-art-A4-450by752-6a367f.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;Stage A&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stage Abraxas&lt;/strong&gt; - the first stage - is pretty basic with black cannons and balls only.&lt;/p&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/stage-art-B17.jpg&quot; target=&quot;_blank&quot;&gt;
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/stage-art-B17-640by1070-620e54.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/stage-art-B17-450by752-620e54.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/stage-art-B17-450by752-620e54.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;Stage B&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stage Blepsei&lt;/strong&gt; introduces colour. Coloured cannons only affect their corresponding 
-colour balls and rotating platforms.&lt;/p&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/stage-art-G7.jpg&quot; target=&quot;_blank&quot;&gt;
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/stage-art-G7-640by1070-33b289.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/stage-art-G7-450by752-33b289.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/stage-art-G7-450by752-33b289.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;Stage C&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stage Gnosis&lt;/strong&gt; - the final stage - features booths that swap the colour of any balls 
-that roll through them. &lt;/p&gt;
-
-</description>
-				<pubDate>Fri, 04 Jul 2014 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2014/07/04/stage-art/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2014/07/04/stage-art/index.html</guid>
 			</item>
 		
 	</channel>
