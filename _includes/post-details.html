@@ -19,12 +19,19 @@ Usage:
 {% endif %}
 </h4> 
 
+{% markdown %}
 
 {% if (include.post.id == page.id) %}
+
 {{ content }}
+
 {% else %}
+
 {{ include.post.content }}
+
 {% endif %}
+
+{% endmarkdown %}
 
 <small class="post-meta" >Posted by <strong>Loks</strong> to <strong>{{ include.post.category | capitalize | replace:'-',' '}}</strong> | {{ include.post.date | date: "%-d %B %Y" }} 
 {% if include.post.comments and include.post.id != page.id %}

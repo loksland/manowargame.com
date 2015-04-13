@@ -260,3 +260,30 @@ img.post-pic-small {
 		margin-top: 5px;
 	}
 }
+
+.embed-container { 
+	position: relative; 
+	padding-bottom: ceil(percentage(500 / 833)); // Ceil of height / width ratio 
+	max-width: 100%; 
+	height: 0; 
+	overflow: hidden;
+	height: auto; 
+	iframe, 
+	object,  
+	embed { 
+		position: absolute; 
+		top: 0; 
+		left: 0; 
+		width: 100%; 
+		height: 100%;
+	}
+	&.limit-height {
+		@media (min-width : @screen-sm) {
+			/*padding-bottom: 750px !important; */
+			width: 500px !important;
+			width: 833px !important;
+		}
+	}
+} 
+
+
