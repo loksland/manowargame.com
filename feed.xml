@@ -7,6 +7,33 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Finalising levels</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/level-design.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/level-design-1110by932-4448a0.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/level-design-768by645-4448a0.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/level-design-900by756-4448a0.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/level-design-450by378-4448a0.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/level-design-450by378-4448a0.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Level design&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Finalising level design now. It’s shaping up to be 3 x 16 level stages with a bonus stage containing
+all the levels that were deemed to tricky or mean. Thanks to primary level tester Zach, who is being 
+ruthless as usual in breaking my levels, finding sneaky short cuts that need to be plugged.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 02 Jul 2015 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2015/07/02/finalising-levels/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/07/02/finalising-levels/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Unused sound effects</title>
 				<description>&lt;p&gt;This whole set of guitar sound effects made by Keir Nuttall did not end up being used in 
 the final game.&lt;/p&gt;
@@ -298,75 +325,6 @@ condom? More details as they become available.&lt;/p&gt;
 				<pubDate>Thu, 28 Aug 2014 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2014/08/28/gold-cannon/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2014/08/28/gold-cannon/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Level editor</title>
-				<description>
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/GC-Level-Editor-Screenshot.png&quot; target=&quot;_blank&quot;&gt;
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-1467by1023-031a4f.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-768by536-031a4f.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-900by628-031a4f.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-450by314-031a4f.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/GC-Level-Editor-Screenshot-450by314-031a4f.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Manowar level editor screenshot&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The level editor for Manowar was built in Flash. &lt;/p&gt;
-
-&lt;p&gt;This was for a few reasons, mainly for it’s visual focus, the handy component system as 
-well as the ability to write helper JSFLs to add functionality to the Flash authoring 
-environment.&lt;/p&gt;
-
-&lt;p&gt;The basic workflow is as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A JSFL linked to a keyboard shortcut creates a new unique level based on a template sprite.&lt;/li&gt;
-  &lt;li&gt;Flash components representing each game object are dragged and dropped onto the level 
-and component params adjusted to suit.&lt;/li&gt;
-  &lt;li&gt;Layout is cleaned up with built in alignment tools and custom ‘snap to pixels’ JSFL.&lt;/li&gt;
-  &lt;li&gt;A keyboard short cut launches the AIR file which saves serialised level data directly into the 
-project directory and then runs XCode.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Working in the IDE had other unforeseen advantages, such as the ability to create a guide
-layer to sketch the planning of the level. SPOILER ALERT below.&lt;/p&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/Level-editor-sketch.png&quot; target=&quot;_blank&quot;&gt;
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/Level-editor-sketch-629by943-bda1a3.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/Level-editor-sketch-450by675-bda1a3.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/Level-editor-sketch-450by675-bda1a3.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Level editor planning sketch&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The above may look like a speed addict’s scrawling on a toilet stall, though these
-lines actually help plan the level while building it.&lt;/p&gt;
-
-&lt;p&gt;The IDE editor was very quick to build and the component system makes it a breeze to add 
-new game objects when needed. Its biggest downside is that no-one else can 
-have a go at making new levels without first having Flash on their computer. This proved 
-inconvenient and limiting. It’s a shame there was such a barrier to getting some fresh 
-perspectives on level design. &lt;/p&gt;
-
-&lt;p&gt;At the end of the day though the other advantages of the system, chiefly its rapid 
-development and ease of use, have justified going down this path.&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 26 Aug 2014 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2014/08/26/level-editor/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2014/08/26/level-editor/index.html</guid>
 			</item>
 		
 	</channel>
