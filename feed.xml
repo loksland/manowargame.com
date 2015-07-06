@@ -7,6 +7,31 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>App icon</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ManowarAppIcon.Web.png&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-717by717-d2b7a7.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-717by717-d2b7a7.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-717by717-d2b7a7.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-450by450-d2b7a7.png&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ManowarAppIcon.Web-450by450-d2b7a7.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Manowar app icon&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Finalising the app icon for iTunes. &lt;/p&gt;
+</description>
+				<pubDate>Tue, 07 Jul 2015 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2015/07/07/app-icon/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/07/07/app-icon/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Finalising levels</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
@@ -313,18 +338,6 @@ long time to solve. They also tend to have less of a narrative / pattern. The ai
 				<pubDate>Fri, 23 Jan 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/01/23/satisfying-puzzle-level-design/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2015/01/23/satisfying-puzzle-level-design/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Gold Cannon</title>
-				<description>&lt;p&gt;In other news it would appear that this site’s sister URL 
-&lt;a href=&quot;http://goldcannon.com/&quot; target=&quot;_blank&quot;&gt;goldcannon.com&lt;/a&gt; is a brand of Chinese
-condom? More details as they become available.&lt;/p&gt;
-
-</description>
-				<pubDate>Thu, 28 Aug 2014 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2014/08/28/gold-cannon/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2014/08/28/gold-cannon/index.html</guid>
 			</item>
 		
 	</channel>
