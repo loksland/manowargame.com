@@ -7,6 +7,67 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Achievement icons</title>
+				<description>
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ach-sdfind.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ach-sdfind-512by512-a4cbfa.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ach-sdfind-450by450-a4cbfa.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ach-sdfind-450by450-a4cbfa.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ach-firstattempt.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ach-firstattempt-512by512-187e46.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ach-firstattempt-450by450-187e46.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ach-firstattempt-450by450-187e46.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ach-timebeat.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ach-timebeat-512by512-746e29.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ach-timebeat-450by450-746e29.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ach-timebeat-450by450-746e29.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/ach-solveall.jpg&quot; target=&quot;_blank&quot;&gt;
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/ach-solveall-512by512-d4ccbd.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/ach-solveall-450by450-d4ccbd.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/ach-solveall-450by450-d4ccbd.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 21 Jul 2015 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2015/07/21/achievement-icons/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/07/21/achievement-icons/index.html</guid>
+			</item>
+		
+			<item>
 				<title>App icon</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
@@ -25,6 +86,7 @@
 &lt;/p&gt;
 
 &lt;p&gt;Finalising the app icon for iTunes. &lt;/p&gt;
+
 </description>
 				<pubDate>Tue, 07 Jul 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/07/07/app-icon/index.html</link>
@@ -292,52 +354,6 @@ many memorable and short app names are taken. Here are a few amassed with the he
 				<pubDate>Thu, 05 Feb 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/02/05/ball-characters/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/05/ball-characters/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Satisfying puzzle level design</title>
-				<description>&lt;p&gt;What makes a puzzle satisfying? Having a puzzle design philosophy really helps resolve design choices.
-These are a few of my thoughts on what makes a good level:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The illusion of simplicity&lt;/strong&gt;&lt;br /&gt;
-When the user glances at the level it might look pretty straight forward. They have a go but realize that it’s not so simple after all. Preferably this realisation takes as long as possible 
-to occur. &lt;/p&gt;
-
-&lt;p&gt;This false narrative may be cunning but we don’t want to use any red herrings or
-dirty tricks. Remember the user is not our enemy - we want them to feel accomplishment not
-resentment after solving the level. Games are supposed to be fun, aren’t they? So be playful.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Questioning assumptions&lt;/strong&gt;&lt;br /&gt;
-Perhaps after trying to use brute force to solve the level, the user has to actually think and be creative. 
-There seems to be a natural barrier to this for most people.&lt;/p&gt;
-
-&lt;p&gt;The user is required to go back to the beginning and analyse some of the choices and 
-assumptions they made along the way. They experiment and feel out different branches of consequence - each choice
-seems to have unexpected repercussions that are hopefully unexpected.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A narrative appears&lt;/strong&gt;&lt;br /&gt;
-The user must experiment over and over, slowly unraveling the puzzle to reach a solution. 
-They know they are on the right track because a pattern appears in the chaos. &lt;/p&gt;
-
-&lt;p&gt;This pattern could be anything, and is difficult to describe in general terms, but it acts 
-as a sign that the puzzle was designed by a human. A secret conversation that is earned by the user’s thoughts and imagination.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Level complete!&lt;/strong&gt;&lt;br /&gt;
-The user feels like a smarty pants. They were toyed with, though never tricked. They’ve been surprised and 
-rewarded for questioning their assumptions with an interesting narrative / pattern that gradually revealed itself.
-They were forced to be analytical and creative along the way.  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other thoughts&lt;/strong&gt;&lt;br /&gt;
-This approach is more for early levels.&lt;/p&gt;
-
-&lt;p&gt;As levels get more advanced and introductions are out of the way then a different class of puzzle emerge. I call these types of puzzles “grinders” and 
-they are for seasoned players who know all your tricks. They look complex - the illusion of simplicity can be dispensed with - and they take a 
-long time to solve. They also tend to have less of a narrative / pattern. The aim here is to let the user dwell in their analytic computations for as long as possible.&lt;/p&gt;
-
-</description>
-				<pubDate>Fri, 23 Jan 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/01/23/satisfying-puzzle-level-design/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/01/23/satisfying-puzzle-level-design/index.html</guid>
 			</item>
 		
 	</channel>
