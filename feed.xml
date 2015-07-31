@@ -7,10 +7,52 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The game is live</title>
+				<description>&lt;p&gt;After over a year in development, I’m happy to announce that Manowar is finally available in the &lt;a href=&quot;http://itunes.apple.com/app/id965680122&quot;&gt;App Store.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+
+
+&lt;a href=&quot;http://itunes.apple.com/app/id965680122&quot; target=&quot;_blank&quot;&gt;
+
+ 
+&lt;picture&gt;
+    &lt;source srcset=&quot;/img-resized/app-store-title-1024by1024-f932a6.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/app-store-title-768by768-f932a6.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/app-store-title-900by900-f932a6.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
+    &lt;source srcset=&quot;/img-resized/app-store-title-450by450-f932a6.jpg&quot; /&gt;
+    &lt;img srcset=&quot;/img-resized/app-store-title-450by450-f932a6.jpg&quot; class=&quot;post-pic-full&quot; alt=&quot;App store&quot; /&gt;
+  &lt;/picture&gt;
+
+
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Taking an independant game from planning stage to finished product was at times very challenging. 
+The sheer volume of work involved in iterating the design and polishing was relentless and daunting. &lt;/p&gt;
+
+&lt;p&gt;I am immensely thankful to have had received amazing support and advice from family and friends who in the end got this project over the line. &lt;/p&gt;
+
+&lt;p&gt;I am proud of the result and hope that the game finds an audience of some kind who enjoy playing it as much as I enjoyed making it.&lt;/p&gt;
+
+&lt;p&gt;The process is by no means finished either. Look out for improvements and updates in the months ahead.&lt;/p&gt;
+
+&lt;p&gt;thanks!&lt;br /&gt;
+Lachlan&lt;/p&gt;
+</description>
+				<pubDate>Fri, 31 Jul 2015 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2015/07/31/game-is-live/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/07/31/game-is-live/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Achievement icons</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ach-sdfind.jpg&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-sdfind-512by512-a4cbfa.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -23,7 +65,10 @@
 &lt;/p&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ach-firstattempt.jpg&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-firstattempt-512by512-187e46.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -36,7 +81,10 @@
 &lt;/p&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ach-timebeat.jpg&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-timebeat-512by512-746e29.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -49,7 +97,10 @@
 &lt;/p&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ach-solveall.jpg&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-solveall-512by512-d4ccbd.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -63,15 +114,18 @@
 
 </description>
 				<pubDate>Tue, 21 Jul 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/07/21/achievement-icons/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/07/21/achievement-icons/index.html</guid>
+				<link>http://manowargame.com/blog/2015/07/21/achievement-icons%202/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2015/07/21/achievement-icons%202/index.html</guid>
 			</item>
 		
 			<item>
 				<title>App icon</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ManowarAppIcon.Web.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-717by717-d2b7a7.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
@@ -97,7 +151,10 @@
 				<title>Finalising levels</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/level-design.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/level-design-1110by932-4448a0.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
@@ -155,7 +212,10 @@ the final game.&lt;/p&gt;
 				<title>Tutorial illustrations</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/tute-icons.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/tute-icons-1536by887-b89aaa.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
@@ -179,7 +239,10 @@ the final game.&lt;/p&gt;
 				<title>Meet the crew</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ball-big-0.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-0-900by900-c45477.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -194,7 +257,10 @@ the final game.&lt;/p&gt;
 &lt;p&gt;Salty&lt;/p&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ball-big-1.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-1-900by900-cc9723.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -209,7 +275,10 @@ the final game.&lt;/p&gt;
 &lt;p&gt;Dickie&lt;/p&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ball-big-2.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-2-900by900-45a07c.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -224,7 +293,10 @@ the final game.&lt;/p&gt;
 &lt;p&gt;Bruiser&lt;/p&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/ball-big-3.png&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-3-900by900-e08a80.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
@@ -247,7 +319,10 @@ the final game.&lt;/p&gt;
 				<title>Sacrifices</title>
 				<description>
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/sacrifices.jpg&quot; target=&quot;_blank&quot;&gt;
+
+
+&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
  
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/sacrifices-1536by1198-5e87b5.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
@@ -329,31 +404,6 @@ many memorable and short app names are taken. Here are a few amassed with the he
 				<pubDate>Fri, 06 Feb 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/02/06/choosing-a-game-name/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/06/choosing-a-game-name/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Ball characters</title>
-				<description>
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/faces.jpg&quot; target=&quot;_blank&quot;&gt;
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/faces-1536by1129-1f7440.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/faces-768by565-1f7440.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/faces-900by662-1f7440.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/faces-450by331-1f7440.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/faces-450by331-1f7440.jpg&quot; class=&quot;post-pic-full&quot; alt=&quot;Cannon ball faces&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;At a crucial moment the balls reveal themselves to be ragged but doe-eyed pirates.&lt;/p&gt;
-</description>
-				<pubDate>Thu, 05 Feb 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/02/05/ball-characters/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/05/ball-characters/index.html</guid>
 			</item>
 		
 	</channel>
