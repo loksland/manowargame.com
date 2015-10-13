@@ -22,7 +22,7 @@ There seems to be a natural barrier to this for most people.
 
 The user is required to go back to the beginning and analyse some of the choices and 
 assumptions they made along the way. They experiment and feel out different branches of consequence - each choice
-seems to have unexpected repercussions that are hopefully unexpected.
+seems to have repercussions that are hopefully unexpected.
 
 **A narrative appears**  
 The user must experiment over and over, slowly unraveling the puzzle to reach a solution. 

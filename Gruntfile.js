@@ -208,11 +208,11 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.config('connect', {
         options: {
-			  port: 1234,
+			  port: 1235,
 			  base: './_dist/',
 			  keepalive:false,
 			  open:true		
-		},
+		}, 
 		// Simulate mod_rewrite behaviour on local server
 		development: {
 			options: {

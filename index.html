@@ -2,7 +2,7 @@
 layout: default
 title: "About"
 ---
-
+{% comment %}
 <div class="container">
 <div class="row">
 	<div class="col-sm-12">
@@ -14,8 +14,9 @@ title: "About"
 	</div>
 </div><!--/.row-->
 </div>
- 
-{% comment %}
+{% endcomment %}
+
+
 <div class="container">
 
 <div class="row" >
@@ -29,8 +30,47 @@ title: "About"
 
 <div class="col-sm-3 col-sm-pull-6 reviews"  >
 
-<strong class="quote" >"I can't believe it."</strong>  
-&nbsp;-&nbsp;Dr Jeremy Toothbloome
+{% markdown %}
+
+{% comment %}
+"The sinister but very impressively crafted design of the app, as well as its unusual gameplay make Manowar a genuine recommendation for puzzle lovers."  
+{% endcomment %}
+"I’ve yet to come across a puzzle-game like the new Manowar"   
+- Frederick Osterhoff   
+[*appgefahren.de*](http://www.appgefahren.de/manowar-indie-puzzle-test-144737.html)   
+
+"It is beautiful, the music and sound effects are fantastic, controls are intuitive, and the gameplay is simple but challenging."    
+<img src="/img/star-full-red@2x.png" width="22" alt="4.5/5 stars" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-half-red@2x.png" width="22" >    
+- Christine Chan   
+[*AppAdvice*](http://appadvice.com/review/manowar)
+
+"a tricky and satisfying puzzle game"   
+- Christian Valentin  
+[*IndieGameEnthusiast*](http://indiegameenthusiast.blogspot.com.au/2015/08/ios-review-100-manowar.html)
+
+"A must try!"  
+<img src="/img/star-full-red@2x.png" width="22" alt="4.5/5 stars" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-half-red@2x.png" width="22" >    
+- Chedie Calayag-Cruz  
+[*PuzzleGameApp*](http://puzzlegameapp.com/manowar-review/)
+
+"Manowar is a real find."  
+[GenussGedaddel](http://genuss-gedaddel.tumblr.com/day/2015/10/03/)
+
+{% endmarkdown %}
+
+{% comment %}
+{% markdown %}
+
+##What is it?
+
+"I’ve yet to come across a puzzle-game like the new Manowar"
+"... it's a masocore platformer in the guise of a puzzle game ..."
+
+{% endmarkdown %}
+{% markdown %}
+"It is beautiful, the music and sound effects are fantastic, controls are intuitive, and the gameplay is simple but challenging."    
+ - Christine Chan
+ [appadvice.com](http://appadvice.com/review/manowar)
 
 **"Maecenas faucibus mollis interdum."**  
 &nbsp;-&nbsp;IndieGamer
@@ -38,43 +78,48 @@ title: "About"
 <em class="quote" >"Maecenas faucibus mollis interdum."</em>  
 &nbsp;-&nbsp;IndieGamer
 
+
+
+
+{% endmarkdown %}
+{% endcomment %}
+
 </div>
  
-<div class="col-sm-3 reviews rhs" >
+<div class="col-sm-3 reviews rhsx" >
 
-"Maecenas faucibus mollis interdum."  
--IndieGamer
+{% markdown %}
 
-"Maecenas faucibus mollis interdum."  
--IndieGamer
+"All of Manowar’s naval influences are just dressing for a fiendishly challenging game."  
+<img src="/img/star-full-red@2x.png" width="22" alt="4/5 stars" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-empty-red@2x.png" width="22" >    
+- Alex Beech  
+[*Softonic*](http://manowar.en.softonic.com/iphone)   
 
-"Maecenas faucibus mollis interdum."  
--IndieGamer
+"To say the puzzles can get rather difficult is a pretty big understatement, as there are some that will basically snap your brain in half."  
+<img src="/img/star-full-red@2x.png" width="22" alt="4.5/5 stars" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-full-red@2x.png" width="22" ><img src="/img/star-half-red@2x.png" width="22" >    
+- Nathan Reinauer  
+[*TouchArcade*](http://toucharcade.com/2015/08/21/manowar-review/)
+
+"an unusually extreme puzzle game"  
+- Kamurai  
+[*iPhone AC*](http://iphoneac-blog.com/archives/8945041.html)
+
+"Trust me, this game is fun."  
+- Tom Cutrofello  
+[*GottaSolveIt*](http://gottasolveit.blogspot.com/2015/08/manowar-physics-puzzle-app-game-for.html)
+
+ 
+{% endmarkdown %}
 
 </div>
 
 </div><!--/.row-->
- 
-
 </div><!--/.container -->
--->
-{% endcomment %}
 
-{% comment %}
-<div class="container-fluid">
- 
-	<div class="row call-to-action" >
-	<div class="col-sm-12" >
-	<p class="text-center"><a href="http://apple.com" target="_blank" ><img src="img/app-store@2x.png" width="261" height="90" alt="Available on the App Store" ></a></p>
-	</div>
-	</div><!--/.row-->
- 
-</div><!--/.container-fluid-->
-{% endcomment %}
+{% comment %}<!--
 
 <div class="container">
 
-{% comment %}<!--
 <div class="row">
 	<div class="col-sm-12">
 	<p class="lead text-center">
@@ -82,24 +127,23 @@ title: "About"
 	</p>
 	</div>
 </div><!--/.row-->
--->{% endcomment %}
 
 
 <div class="row screenshots" >
 {% comment %}<!--
 	<div class="col-sm-4" >
-	<img src="img/screenshot-a.2.jpg" >
+	<img src="/img/screenshot-a.2.jpg" >
 	<p class="lead" ></p>
 	</div><!--/.row-->
 
 	<div class="col-sm-6">
-	<img src="img/screenshot-b.2.jpg" >
+	<img src="/img/screenshot-b.2.jpg" >
 	<p class="lead" >A puzzle game</p>
 	</div>
 	-->{% endcomment %}
 	<div class="col-sm-3"></div>
 	<div class="col-sm-6">
-		<!--<img src="img/screenshot-c.2.jpg" >-->
+		<!--<img src="/img/screenshot-c.2.jpg" >-->
 		<div class="embed-container limit-height" style="padding-bottom:166.666%" ><iframe src="https://player.vimeo.com/video/122967714" width="500" height="833" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 	</div>
@@ -108,17 +152,39 @@ title: "About"
  
 </div>
 
-<div class="container-fluid" style="margin-top:20px;">
+-->{% endcomment %}
+
+<div class="container-fluid" style="margin-top:20px;" >
  
-	<div class="row call-to-action info" >
-	<div class="col-md-12" >
-		<p class="text-center"><span>In the App Store</span> <span class="small-wrap" ><strong >April 2015!</strong></span></p> 
+	<div class="row call-to-action" >
+	<div class="col-sm-12" >
+	<p class="text-center"><a href="http://itunes.apple.com/app/id965680122" target="_blank" ><img src="/img/app-store@2x.png" width="261" height="90" alt="Available on the App Store" ></a></p>
 	</div>
-	
-	</div><!--/.row--> 
+	</div><!--/.row-->
  
 </div><!--/.container-fluid-->
 
+
+{% comment %}<!--
+<div class="row">
+	<div class="col-sm-12">
+	<p class="lead text-center">
+	A puzzle game for iPhone and iPad
+	</p>
+	</div>
+</div><!--/.row-->
+
+
+
+
+<div class="container-fluid" style="margin-top:20px;">
+	<div class="row call-to-action info" >
+	<div class="col-md-12" >
+		<p class="text-center"><span>In the App Store</span> <span class="small-wrap" ><strong >July 2015!</strong></span></p> 
+	</div>
+	</div><!--/.row-->
+</div><!--/.container-fluid-->
+-->{% endcomment %}
 
 {% comment %}<!--
 
@@ -153,7 +219,6 @@ Consider doing something constructive with your time instead, like learning a se
 
 -->{% endcomment %}
 
- 
 
 {% comment %}
 <div class="container-fluid"  >
@@ -175,6 +240,7 @@ Consider doing something constructive with your time instead, like learning a se
 </div><!--/.container-fluid-->
 {% endcomment %}
 
+{% comment %}<!--
 <div class="container">
 <div class="row">
 <div class="col-sm-3"></div>
@@ -182,7 +248,7 @@ Consider doing something constructive with your time instead, like learning a se
 {% markdown %}
 ####Sign up to the mailing list####
 
-We'll let you know when it comes out
+{% comment %}<!--We'll let you know when it comes out-->{% endcomment %}
 {% endmarkdown %}
 <form action="http://makersend.createsend.com/t/d/s/vjhht/" class="navbar-form" style="padding-left:0;" method="post" >
 	
@@ -193,8 +259,9 @@ We'll let you know when it comes out
 <button type="submit" class="btn btn-info">Join</button> 
 </form>
 </div>
+
 <div class="col-sm-3"></div>
-{% comment %}<!--
+
 <div class="col-sm-6">
 {% markdown %}
 ####Want to see more?####
@@ -202,11 +269,11 @@ We'll let you know when it comes out
 Head over the the <a href="/blog/"  >developer blog</a> to see how it's going.
 
 </div>
--->{% endcomment %}
-
 
 </div><!--/.row-->
  
 </div><!--/.container -->
+
+-->{% endcomment %}
 
 

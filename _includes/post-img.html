@@ -12,8 +12,6 @@ credit_url="http://theonion.com" credit_url_name="The Onion" credit_title="The M
 
 {% if include.is_fixed_size %} 
 
-
-
 <p class="text-center img-wrapper" >
 <a href="/{{ site.picture.source }}/{{ include.img }}" target="_blank" >
 <img src="/{{ site.picture.source }}/{{ include.img }}" alt="{{ include.alt }}" 
@@ -32,7 +30,12 @@ class="post-pic-full"
 {% else %}
 
 <p class="text-center img-wrapper" >
+
+{% if include.url == "" %}
 <a href="/{{ site.picture.source }}/{{ include.img }}" target="_blank" >
+{% else %}
+<a href="{{ include.url }}" target="_blank" >
+{% endif %}
 {% if include.img_preset %} 
 {% picture {{ include.img_preset }} {{ include.img }} alt="{{ include.alt }}" %}
 {% else %}
