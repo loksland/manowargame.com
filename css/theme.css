@@ -5796,6 +5796,10 @@ button.close {
   .small-hide {
     display: none;
   }
+  .nav > li > a {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
 }
 @media (min-width: 480px) {
   .small-show {
