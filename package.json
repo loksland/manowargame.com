@@ -27,7 +27,7 @@
     "grunt-contrib-uglify": "^0.4.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-convert": "^0.1.11",
-    "grunt-gh-pages": "^0.9.1",
+    "grunt-gh-pages": "^0.10.0",
     "grunt-hash": "^0.5.0",
     "grunt-jekyll": "^0.4.2",
     "grunt-macreload": "^0.1.3",
