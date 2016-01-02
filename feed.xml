@@ -7,6 +7,22 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Puzzle App Game of the Year Award!</title>
+				<description>&lt;p&gt;I’m very pleased to learn that Manowar has won a Puzzle App Game of the Year (PAYG) award, in the Best Physics Puzzle category. 
+The awards are curated by puzzle authority Tom Cutrofello (&lt;a href=&quot;https://twitter.com/labmicepuzzles&quot;&gt;@labmicepuzzles&lt;/a&gt;) who runs the superb Gotta Solve It
+puzzle blog. &lt;/p&gt;
+
+&lt;p&gt;Tom’s reviews are always honest, to the point and thoroughly considered. I’ve always held his blog to be the premiere puzzle app review site on the web, so this means a lot to me. &lt;/p&gt;
+
+&lt;p&gt;Check out all the amazing winners here: &lt;br /&gt;
+&lt;a href=&quot;http://gottasolveit.blogspot.com.au/2015/12/2015-puzzle-app-games-of-year-award.html&quot;&gt;gottasolveit.blogspot.com.au/2015/12/2015-puzzle-app-games-of-year-award.html&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 01 Jan 2016 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2016/01/01/puzzle-app-game-of-the-year-winner/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2016/01/01/puzzle-app-game-of-the-year-winner/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Version 1.1 update</title>
 				<description>&lt;p&gt;This is the first update to Manowar and has a number of improvements. Thanks so much to everyone for sharing their insights and feedback, in particular nSalmoria, PJ and onlyPhoenix.&lt;/p&gt;
 
@@ -354,34 +370,6 @@ the final game.&lt;/p&gt;
 				<pubDate>Mon, 09 Feb 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/02/09/meet-the-crew/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/09/meet-the-crew/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Sacrifices</title>
-				<description>
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-
-
-&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
-
- 
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/sacrifices-1536by1198-5e87b5.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/sacrifices-768by599-5e87b5.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/sacrifices-900by702-5e87b5.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/sacrifices-450by351-5e87b5.jpg&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/sacrifices-450by351-5e87b5.jpg&quot; class=&quot;post-pic-full&quot; alt=&quot;Sacrifice list&quot; /&gt;
-  &lt;/picture&gt;
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Often sacrifices must be made to get the game over the line. Sometimes this includes making balls telepathic so their lips don’t move. Alternative: they happen to be eating a big sandwich or reading a book. &lt;/p&gt;
-</description>
-				<pubDate>Fri, 06 Feb 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/02/06/sacrifices/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/06/sacrifices/index.html</guid>
 			</item>
 		
 	</channel>
