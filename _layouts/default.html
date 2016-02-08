@@ -11,9 +11,9 @@
         
         
         {% if page.url == "/index.html" %}
-        <title>Manowar: a physics puzzle game for iPhone and iPad - in the app store now.</title>
+        <title>Manowar is an award-winning physics puzzle game for iPhone and iPad - in the app store now.</title>
         {% else %}
-        <title>{{ page.title }} | Manowar: a physics puzzle game for iPhone and iPad - in the app store now.</title>
+        <title>{{ page.title }} | Manowar is an award-winning physics puzzle game for iPhone and iPad - in the app store now.</title>
         {% endif %}
         
         <meta name="description" content="">
@@ -23,6 +23,11 @@
         <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600|Josefin+Slab:300,600' rel='stylesheet' type='text/css'>
         <script src="/{{site.data.hash.["js/vendor/modernizr.min.js"]}}"></script>
         <script src="/{{site.data.hash.["js/vendor/swfobject.min.js"]}}"></script>
+        
+        {% if page.feature_pic %}
+				<meta property="og:image" content="{{ site.url }}/{{ site.picture.source }}/{{ page.feature_pic }}" />
+        {% endif %}
+        
         <script>
 		// Picture element HTML5 shiv
 		document.createElement( "picture" );
@@ -61,7 +66,7 @@
 					<li class="{% if !page.id or page.url == "/blog/index.html" %}active{% endif %}" ><a href="/blog/">Blog</a></li>
 					<li class="{% if page.url == "/press-kit/index.html" %}active{% endif %}" ><a href="/press-kit/"  >Press<span class="small-hide" > kit</span></a></li>
 					<li class="{% if page.url == "/help/index.html" %}active{% endif %}" ><a href="/help/" >Help</a></li>
-					<li ><a href="http://itunes.apple.com/app/id965680122" ><span class="small-show" >Get it</span><span class="small-hide" >Download</span></a></li>
+					<li ><a href="http://itunes.apple.com/app/id965680122" ><strong><span class="small-show" >Get it</span><span class="small-hide" >Download</span></a></strong></li>
 					</ul>
 
 					<ul class="nav navbar-nav navbar-right">
