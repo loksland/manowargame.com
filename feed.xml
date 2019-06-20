@@ -10,17 +10,30 @@
 				<title>Puzzle App Game of the Year Award!</title>
 				<description>&lt;p&gt;I’m very pleased to learn that Manowar has won a Puzzle App Game of the Year (PAYG) award, in the Best Physics Puzzle category. 
 The awards are curated by puzzle authority Tom Cutrofello (&lt;a href=&quot;https://twitter.com/labmicepuzzles&quot;&gt;@labmicepuzzles&lt;/a&gt;) who runs the superb Gotta Solve It
-puzzle blog. &lt;/p&gt;
+puzzle blog.&lt;/p&gt;
 
-&lt;p&gt;Tom’s reviews are always honest, to the point and thoroughly considered. I’ve always held his blog to be the premiere puzzle app review site on the web, so this means a lot to me. &lt;/p&gt;
+&lt;p&gt;Tom’s reviews are always honest, to the point and thoroughly considered. I’ve always held his blog to be the premiere puzzle app review site on the web, so this means a lot to me.&lt;/p&gt;
 
 &lt;p&gt;Check out all the amazing winners here: &lt;br /&gt;
 &lt;a href=&quot;http://gottasolveit.blogspot.com.au/2015/12/2015-puzzle-app-games-of-year-award.html&quot;&gt;gottasolveit.blogspot.com.au/2015/12/2015-puzzle-app-games-of-year-award.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
+
+
+
+
+
 
 
 &lt;picture&gt;
@@ -30,6 +43,11 @@ puzzle blog. &lt;/p&gt;
     &lt;source srcset=&quot;/img-resized/ach-solveall-450by450-d4ccbd.jpg&quot; /&gt;
     &lt;img srcset=&quot;/img-resized/ach-solveall-450by450-d4ccbd.jpg&quot; class=&quot;post-pic-full&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
+
+
+
+
+
 
 
 &lt;/a&gt;
@@ -47,7 +65,7 @@ puzzle blog. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Drag input&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Drag input was really not up to standard in the original release. With this in mind the system for manual control has been redesigned. &lt;/p&gt;
+&lt;p&gt;Drag input was really not up to standard in the original release. With this in mind the system for manual control has been redesigned.&lt;/p&gt;
 
 &lt;p&gt;Multiple touch is now supported, so you can simultaneously drag with one finger while firing cannons with the second. Double tap also centers the ship angle.&lt;/p&gt;
 
@@ -55,7 +73,7 @@ puzzle blog. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Puzzle tweaks&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Many levels were slightly tweaked to be easier to solve mechanically. I want the puzzle to be primarily a logical / lateral challenge, so if there was something simple I could do to make life easier - especially in the early levels - I changed the design. &lt;/p&gt;
+&lt;p&gt;Many levels were slightly tweaked to be easier to solve mechanically. I want the puzzle to be primarily a logical / lateral challenge, so if there was something simple I could do to make life easier - especially in the early levels - I changed the design.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;New levels&lt;/strong&gt;&lt;/p&gt;
 
@@ -86,12 +104,25 @@ puzzle blog. &lt;/p&gt;
 				<title>The game is live</title>
 				<description>&lt;p&gt;After over a year in development, I’m happy to announce that Manowar is finally available in the &lt;a href=&quot;http://itunes.apple.com/app/id965680122&quot;&gt;App Store.&lt;/a&gt;&lt;/p&gt;
 
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;http://itunes.apple.com/app/id965680122&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/app-store-title-1024by1024-f932a6.jpg&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/app-store-title-768by768-f932a6.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
@@ -101,13 +132,18 @@ puzzle blog. &lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Taking an independant game from planning stage to finished product was at times very challenging. 
-The sheer volume of work involved in iterating the design and polishing was relentless and daunting. &lt;/p&gt;
+The sheer volume of work involved in iterating the design and polishing was relentless and daunting.&lt;/p&gt;
 
-&lt;p&gt;I am immensely thankful to have had received amazing support and advice from family and friends who in the end got this project over the line. &lt;/p&gt;
+&lt;p&gt;I am immensely thankful to have had received amazing support and advice from family and friends who in the end got this project over the line.&lt;/p&gt;
 
 &lt;p&gt;I am proud of the result and hope that the game finds an audience of some kind who enjoy playing it as much as I enjoyed making it.&lt;/p&gt;
 
@@ -124,12 +160,25 @@ Lachlan&lt;/p&gt;
 			<item>
 				<title>Achievement icons</title>
 				<description>
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-sdfind-512by512-a4cbfa.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ach-sdfind-450by450-a4cbfa.jpg&quot; /&gt;
@@ -137,15 +186,33 @@ Lachlan&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-firstattempt-512by512-187e46.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ach-firstattempt-450by450-187e46.jpg&quot; /&gt;
@@ -153,15 +220,33 @@ Lachlan&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-timebeat-512by512-746e29.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ach-timebeat-450by450-746e29.jpg&quot; /&gt;
@@ -169,20 +254,43 @@ Lachlan&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ach-solveall-512by512-d4ccbd.jpg&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ach-solveall-450by450-d4ccbd.jpg&quot; /&gt;
     &lt;img srcset=&quot;/img-resized/ach-solveall-450by450-d4ccbd.jpg&quot; class=&quot;post-pic-med&quot; alt=&quot;&quot; /&gt;
   &lt;/picture&gt;
+
+
+
+
+
 
 
 &lt;/a&gt;
@@ -197,12 +305,25 @@ Lachlan&lt;/p&gt;
 			<item>
 				<title>App icon</title>
 				<description>
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-717by717-d2b7a7.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ManowarAppIcon.Web-717by717-d2b7a7.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
@@ -212,10 +333,15 @@ Lachlan&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Finalising the app icon for iTunes. &lt;/p&gt;
+&lt;p&gt;Finalising the app icon for iTunes.&lt;/p&gt;
 
 </description>
 				<pubDate>Tue, 07 Jul 2015 00:00:00 +1000</pubDate>
@@ -226,12 +352,25 @@ Lachlan&lt;/p&gt;
 			<item>
 				<title>Finalising levels</title>
 				<description>
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/level-design-1110by932-4448a0.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/level-design-768by645-4448a0.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
@@ -239,6 +378,11 @@ Lachlan&lt;/p&gt;
     &lt;source srcset=&quot;/img-resized/level-design-450by378-4448a0.png&quot; /&gt;
     &lt;img srcset=&quot;/img-resized/level-design-450by378-4448a0.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Level design&quot; /&gt;
   &lt;/picture&gt;
+
+
+
+
+
 
 
 &lt;/a&gt;
@@ -270,6 +414,14 @@ the final game.&lt;/p&gt;
 			<item>
 				<title>Trailer preview</title>
 				<description>
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 &lt;a href=&quot;/img/hires/trailer-title.gif&quot; target=&quot;_blank&quot;&gt;
 &lt;img src=&quot;/img/hires/trailer-title.gif&quot; alt=&quot;&quot; class=&quot;post-pic-med&quot; /&gt;
@@ -287,12 +439,25 @@ the final game.&lt;/p&gt;
 			<item>
 				<title>Tutorial illustrations</title>
 				<description>
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/tute-icons-1536by887-b89aaa.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/tute-icons-768by444-b89aaa.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
@@ -300,6 +465,11 @@ the final game.&lt;/p&gt;
     &lt;source srcset=&quot;/img-resized/tute-icons-450by260-b89aaa.png&quot; /&gt;
     &lt;img srcset=&quot;/img-resized/tute-icons-450by260-b89aaa.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Tutorial illustrations&quot; /&gt;
   &lt;/picture&gt;
+
+
+
+
+
 
 
 &lt;/a&gt;
@@ -314,12 +484,25 @@ the final game.&lt;/p&gt;
 			<item>
 				<title>Meet the crew</title>
 				<description>
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-0-900by900-c45477.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-0-450by450-c45477.png&quot; /&gt;
@@ -327,17 +510,35 @@ the final game.&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Salty&lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-1-900by900-cc9723.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-1-450by450-cc9723.png&quot; /&gt;
@@ -345,17 +546,35 @@ the final game.&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Dickie&lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-2-900by900-45a07c.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-2-450by450-45a07c.png&quot; /&gt;
@@ -363,22 +582,45 @@ the final game.&lt;/p&gt;
   &lt;/picture&gt;
 
 
+
+
+
+
+
 &lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Bruiser&lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
 
 &lt;p class=&quot;text-center img-wrapper&quot;&gt;
 
 
 &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
 
- 
+
+
+
+
+
+
 &lt;picture&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-3-900by900-e08a80.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
     &lt;source srcset=&quot;/img-resized/ball-big-3-450by450-e08a80.png&quot; /&gt;
     &lt;img srcset=&quot;/img-resized/ball-big-3-450by450-e08a80.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Rolly&quot; /&gt;
   &lt;/picture&gt;
+
+
+
+
+
 
 
 &lt;/a&gt;
