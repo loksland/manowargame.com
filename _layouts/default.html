@@ -5,37 +5,37 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 
     <head>
-    
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        
-        
-        {% if page.url == "/index.html" %}
+
+        {% if page.url == "/" %}
         <title>Manowar is an award-winning physics puzzle game for iPhone and iPad - in the app store now.</title>
         {% else %}
         <title>{{ page.title }} | Manowar is an award-winning physics puzzle game for iPhone and iPad - in the app store now.</title>
         {% endif %}
-        
+
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="/{{site.data.hash.["css/theme.min.css"]}}">
-        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600|Josefin+Slab:300,600' rel='stylesheet' type='text/css'>
-        <script src="/{{site.data.hash.["js/vendor/modernizr.min.js"]}}"></script>
-        <script src="/{{site.data.hash.["js/vendor/swfobject.min.js"]}}"></script>
-        
+        <link rel="stylesheet" href="/{{site.data.hash["css/theme.min.css"]}}">
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600|Josefin+Slab:300,600' rel='stylesheet' type='text/css'>
+        <script src="/{{site.data.hash["js/vendor/modernizr.min.js"]}}"></script>
+        <script src="/{{site.data.hash["js/vendor/swfobject.min.js"]}}"></script>
+
         {% if page.feature_pic %}
 				<meta property="og:image" content="{{ site.url }}/{{ site.picture.source }}/{{ page.feature_pic }}" />
         {% endif %}
-        
+
         <script>
 		// Picture element HTML5 shiv
 		document.createElement( "picture" );
 		</script>
-        <script src="/{{site.data.hash.["js/vendor/picturefill.min.js"]}}" async></script>
+        <script src="/{{site.data.hash["js/vendor/picturefill.min.js"]}}" async></script>
     </head>
     <body>
-    
+
+
 		<!--[if lt IE 7]>
 			<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
@@ -52,48 +52,46 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
-					</button>          
-					
+					</button>
+
 					{% comment %}
-					<a class="navbar-brand small-hide" href="/" class="active" >Manowar</a>
+					<a class="navbar-brand small-hide" href="/" class="active" >Manowar </a>
 					{% endcomment %}
 				</div>
-				
+
 				<div class="navbar-collapse collapse">
-					
+
 					<ul class="nav navbar-nav">
-					<li class="{% if page.url == "/index.html" %}active{% endif %}" ><a href="/">About</a></li>					
-					<li class="{% if !page.id or page.url == "/blog/index.html" %}active{% endif %}" ><a href="/blog/">Blog</a></li>
-					<li class="{% if page.url == "/press-kit/index.html" %}active{% endif %}" ><a href="/press-kit/"  >Press<span class="small-hide" > kit</span></a></li>
-					<li class="{% if page.url == "/help/index.html" %}active{% endif %}" ><a href="/help/" >Help</a></li>
-					<li ><a href="http://itunes.apple.com/app/id965680122" ><strong><span class="small-show" >Get it</span><span class="small-hide" >Download</span></a></strong></li>
+					<li class="{% if page.url == "/" %}active{% endif %}" ><a href="/">About</a></li>
+					<li class="{% if page.id or page.url == "/blog/" %}active{% endif %}" ><a href="/blog/">Blog</a></li>
+					<li class="{% if page.url == "/press-kit/" %}active{% endif %}" ><a href="/press-kit/"  >Press<span class="small-hide" >kit</span></a></li>
+					<li class="{% if page.url == "/help/" %}active{% endif %}" ><a href="/help/" >Help</a></li>
+					<li ><a href="https://itunes.apple.com/app/id965680122" ><strong><span class="small-show" >Get it</span><span class="small-hide" >Download</span></a></strong></li>
 					</ul>
 
 					<ul class="nav navbar-nav navbar-right">
 					{% comment %}
 					<li><a href="http://gameprocess.tumblr.com/" target="_blank" ><span class="small-hide" >Process </span><span class="glyphicon glyphicon-new-window" style="width:20px;" ></span></a></li>
 					{% endcomment %}
-					<li><a href="http://twitter.com/manowargame" target="_blank" title="@manowargame" class="pic" ><span class="small-hide" >@manowargame</span><img src="/img/twitter-logo@2x.png" width="34" height="29" ></a></li>
+					<li><a href="https://twitter.com/manowargame" target="_blank" title="@manowargame" class="pic" ><span class="small-hide" >@manowargame</span><img src="/img/twitter-logo@2x.png" width="34" height="29" ></a></li>
 					</ul>
 				</div>
 
 			</div><!--/.container -->
 		</div><!--/.navbar -->
-		
+
 		{% include gc-title-header.html %}
-		
-		{{ content }} 
 
-		<div id="footer">
-			<div class="container">
-				<p><small>&copy; 2015 Lachlan Nuttall</small></p>
-			</div>
-		</div>
-		
+		{{ content }}
+
+    {% include footer.html %}
+
+    
+
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="/{{site.data.hash.["js/vendor/jquery.min.js"]}}"><\/script>')</script>
+		<script>window.jQuery || document.write('<script src="/{{site.data.hash["js/vendor/jquery.min.js"]}}"><\/script>')</script>
 
-		<script src="/{{site.data.hash.["js/vendor/bootstrap.min.js"]}}"></script>
+		<script src="/{{site.data.hash["js/vendor/bootstrap.min.js"]}}"></script>
 		{% comment %}
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
@@ -108,6 +106,6 @@
   ga('send', 'pageview');
 
 </script>
-	
+
     </body>
 </html>

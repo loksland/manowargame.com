@@ -1,0 +1,5 @@
+# Usage:
+# {% if site.data.settings.enable_blog_comments %} {% endif %}
+enable_blog_comments: false
+enable_mailing_list: false
+copyright: "&copy; 2019 Maker Publishing"

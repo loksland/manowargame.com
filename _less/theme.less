@@ -1,14 +1,14 @@
 @import "../_bower_components/bootstrap/less/bootstrap.less";
-@import "variables.less"; 
+@import "variables.less";
 
 @footer-height:            35px;
 
 .reviews {
 	font-family: @font-family-serif;
 	font-weight: 300;
-	color: #EEE; 
+	color: #EEE;
 	font-size: 20px;
-} 
+}
 
 .reviews p {
 	margin-bottom:25px;
@@ -28,7 +28,11 @@
 		text-align:left;
 	}
 
-} 
+}
+
+#footer a {
+	color : #917e34;
+}
 
 @media(max-width: @screen-xs){
 	.small-hide {
@@ -46,7 +50,7 @@
 	}
 }
 
- 
+
 a.pic {
 	padding-top:12px !important;
 	padding-bottom:0px !important;
@@ -64,7 +68,7 @@ body {
 	//background: linear-gradient(to bottom,  #000202 0%,#0c3544 41%,#0c3544 41%,#07383a 98%,#c3c77f 100%); /* W3C */
 	//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000202', endColorstr='#c3c77f',GradientType=0 ); /* IE6-9 */
 
-	
+
 	background-image:url(../img/bg-gold-clouds.jpg);
 	//background-repeat:repeat-x;
  	//background-position:center 0px;
@@ -73,12 +77,12 @@ body {
 	/*
 	http://www.colorzilla.com/gradient-editor/
 	*/
-	
+
 	/* Margin bottom by footer height */
-   	margin-bottom: @footer-height+30;
+   	margin-bottom: @footer-height+0;
    	padding-top: @navbar-height+20;
-   	
-} 
+
+}
 
 .banner {
  background-image:url(../img/stars.png);
@@ -92,29 +96,29 @@ html {
 }
 
 #footer {
-  position: absolute; 
+  position: absolute;
   font-weight:400;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: @footer-height; 
+  height: @footer-height;
   text-align:center;
 }
 
 #footer p {
-	margin-bottom:0;  
+	margin-bottom:0;
 	color:#917e34;
 }
 
-.call-to-action { 
+.call-to-action {
 	padding-top:15.5px;
-	background-color:#f10f63; 	
+	background-color:#f10f63;
 	margin-bottom:25px;
 }
 
-.call-to-action { 
+.call-to-action {
 	font-size:27px;
-	color:#000;	
+	color:#000;
 }
 
 .play {
@@ -170,11 +174,11 @@ dd {
 	.cross-section {
 		display:none;
 	}
-	
+
 	.small-wrap {
 		display:block;
 	}
-	
+
 }
 
 @media(max-width: @screen-md){
@@ -183,14 +187,14 @@ dd {
 		display:none;
 	}
 
-}    
+}
 @media(max-width: @screen-tablet){
 
 	.cs-middle {
 		display:none;
 	}
-	
-}   
+
+}
 
 .lhs {
 	margin-right:50px;
@@ -210,7 +214,7 @@ dd {
 		margin-left:70px;
 	}
 
-} 
+}
 
 @media(min-width: @screen-md){
 
@@ -219,8 +223,7 @@ dd {
 	}
 }
 
-
-.screenshots div { 
+.screenshots div {
 	text-align:center;
 }
 
@@ -235,7 +238,6 @@ dd {
 .img-wrapper {
 	background-color: fade(#000, 20%);
 }
-
 
 /* Post - 100% width */
 
@@ -269,20 +271,20 @@ img.post-pic-small {
 	}
 }
 
-.embed-container { 
-	position: relative; 
-	padding-bottom: ceil(percentage(500 / 833)); // Ceil of height / width ratio 
-	max-width: 100%; 
-	height: 0; 
+.embed-container {
+	position: relative;
+	padding-bottom: ceil(percentage(500 / 833)); // Ceil of height / width ratio
+	max-width: 100%;
+	height: 0;
 	overflow: hidden;
-	height: auto; 
-	iframe, 
-	object,  
-	embed { 
-		position: absolute; 
-		top: 0; 
-		left: 0; 
-		width: 100%; 
+	height: auto;
+	iframe,
+	object,
+	embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
 		height: 100%;
 	}
 	&.limit-height {
@@ -292,6 +294,20 @@ img.post-pic-small {
 			width: 833px !important;
 		}
 	}
-} 
+}
 
+.star-rating {
+  white-space: nowrap;
+}
 
+.sidebar-link {
+	text-align:center;
+}
+
+@media(min-width: @screen-md){
+
+	.sidebar-link {
+		text-align:left;
+	}
+
+}

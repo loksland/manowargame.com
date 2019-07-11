@@ -1,29 +1,26 @@
-{% comment %}
+
 <!--
-	
+
 Usage:
-include post-img.html img="jaws.jpg" img_preset="post_full|post_med|post_small" alt="Jaws movie poster" is_fixed_size=true 
+include post-img.html img="jaws.jpg" img_preset="post_full|post_med|post_small" alt="Jaws movie poster" is_fixed_size=true
 credit_url="http://theonion.com" credit_url_name="The Onion" credit_title="The Mona Lisa"
 
 -->
-{% endcomment %}
 
 
 
-
-
-{% if include.is_fixed_size %} 
+{% if include.is_fixed_size %}
 
 <p class="text-center img-wrapper" >
 <a href="/{{ site.picture.source }}/{{ include.img }}" target="_blank" >
-<img src="/{{ site.picture.source }}/{{ include.img }}" alt="{{ include.alt }}" 
-{% if include.img_preset == "post_med" %} 
+<img src="/{{ site.picture.source }}/{{ include.img }}" alt="{{ include.alt }}"
+{% if include.img_preset == "post_med" %}
 class="post-pic-med"
 {% elsif include.img_preset == "post_small" %}
 class="post-pic-small"
 {% else %}
 class="post-pic-full"
-{% endif %}	
+{% endif %}
 >
 </a>
 </p>
@@ -38,11 +35,21 @@ class="post-pic-full"
 {% else %}
 <a href="{{ include.url }}" target="_blank" >
 {% endif %}
-{% if include.img_preset %} 
+
+
+
+{% comment %}{% endcomment %}
+
+{% if include.img_preset %}
 {% picture {{ include.img_preset }} {{ include.img }} alt="{{ include.alt }}" %}
 {% else %}
 {% picture post_full {{ include.img }} alt="{{ include.alt }}" %}
 {% endif %}
+
+
+
+
+
 </a>
 </p>
 
@@ -50,9 +57,6 @@ class="post-pic-full"
 
 
 
-{% if include.credit_url %} 
+{% if include.credit_url %}
 <small><em>{% if include.credit_title %}{{ include.credit_title }}{% else %}Image{% endif %} via <a href="{{ include.credit_url }}" target="_blank" >{% if include.credit_url_name %}{{ include.credit_url_name }}{% else %}{{ include.credit_url }}{% endif %}</a></em></small><br>
 {% endif %}
-
-
-

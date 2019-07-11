@@ -5,8 +5,6 @@
 
 cd "`dirname "$0"`"
 
-pwd
+grunt dist
 
 $SHELL
-
-

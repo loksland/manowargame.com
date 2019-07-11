@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container">
-  
+
 <div class="row">
 <div class="col-md-8">
 
@@ -11,13 +11,13 @@ layout: default
 
 
 <ul class="pager">
-{% if !page.previous %}
+{% if page.previous  %}
   <li class="previous"><a href="{{ page.previous.url | replace:'index.html','' }}" title="{{ page.previous.title }}" >&larr; Older</a></li>
 {% else %}
   <li class="previous disabled"><a href="#">&larr; Older</a></li>
 {% endif %}
 
-{% if !page.next %}
+{% if page.next  %}
   <li class="next"><a href="{{ page.next.url | replace:'index.html','' }}" title="{{ page.next.title }}" >Newer &rarr;</a></li>
 {% else %}
   <li class="next disabled"><a href="#">Newer &rarr;</a></li>
@@ -47,7 +47,7 @@ layout: default
 
 {% comment %}
 
-{% for post in site.categories.[page.category] %}
+{% for post in site.categories[page.category] %}
 	{% if post.id != page.id %}
     	<p><a href="{{ include.post.url | replace:'index.html','' }}" >{{ post.title }}</a></p>
     {% endif %}
@@ -65,14 +65,3 @@ layout: default
 
 
 </div><!--/.container -->
-
-
-
-
-
-
-
-
-
-
-

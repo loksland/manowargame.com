@@ -1,5 +1,5 @@
 {% comment %}
-	
+
 Usage:
 
 Add to page in question:
@@ -7,10 +7,11 @@ Add to page in question:
 comments: true
 ---
 {% include page-comments.html page=page %}
-	
+
 {% endcomment %}
 
-{% if include.page.comments %}
+
+{% if site.data.settings.enable_blog_comments and include.page.comments %}
 <hr>
 <p>
 <div id="disqus_thread"></div>
@@ -21,7 +22,7 @@ comments: true
 	var disqus_identifier = '{{ include.page.id }}';
     var disqus_title = '{{ include.page.title }}';
     var disqus_url = '{{ site.url }}{{ include.page.url }}';
-    
+
 	/* * * DON'T EDIT BELOW THIS LINE * * */
 	(function() {
 		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -33,6 +34,3 @@ comments: true
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 {% endif %}
-
-
-

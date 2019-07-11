@@ -5792,6 +5792,9 @@ button.close {
     text-align: left;
   }
 }
+#footer a {
+  color: #917e34;
+}
 @media (max-width: 480px) {
   .small-hide {
     display: none;
@@ -5818,7 +5821,7 @@ body {
 	http://www.colorzilla.com/gradient-editor/
 	*/
   /* Margin bottom by footer height */
-  margin-bottom: 65px;
+  margin-bottom: 35px;
   padding-top: 70px;
 }
 .banner {
@@ -5983,5 +5986,16 @@ img.post-pic-small {
     /*padding-bottom: 750px !important; */
     width: 500px !important;
     width: 833px !important;
+  }
+}
+.star-rating {
+  white-space: nowrap;
+}
+.sidebar-link {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .sidebar-link {
+    text-align: left;
   }
 }

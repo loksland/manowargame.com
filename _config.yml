@@ -1,22 +1,26 @@
 # JEKYLL CONFIG
-exclude: 
-  - _less
-  - _assets
-  - _bower_components
+baseurl: ""
+exclude:
   - bower.json
   - node_modules
   - package.json
-paginate: 5
+  - package-lock.json
+  - "*.command"
+  - "README.md"
+#  - "_*"
+plugins:
+  - jekyll-paginate
+paginate: 115
 # Urls
 permalink: blog/:year/:month/:day/:title/index.html
-# For RSS feed: 
+# For RSS feed:
 name: Manowar dev blog
 description: Development blog for Manowar, a puzzle game for iPhone and iPad
 url: http://manowargame.com
 # Jekyll image tag
 image:
   source: img/hires
-  output: img-resized  
+  output: img-resized
   presets:
     users:
       attr:
@@ -32,7 +36,7 @@ picture:
   output: img-resized
   markup: "picture"
   presets:
-    # Default - for 8 col 
+    # Default - for 8 col
     default:
       ppi: [1, 2]
       attr:
@@ -66,13 +70,11 @@ picture:
     post_small:
       ppi: [1, 2]
       attr:
-        class: "post-pic-small"    
+        class: "post-pic-small"
       source_default:
         width: 290
-# For ref:        
+# For ref:
 # @screen-xs: 480px;
 # @screen-sm: 768px;
 # @screen-md: 992px;
-# @screen-lg: 1200px;        
-        
-        
+# @screen-lg: 1200px;
