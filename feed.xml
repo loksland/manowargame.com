@@ -7,6 +7,59 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Version 1.2 update</title>
+				<description>&lt;p&gt;As the new app version (1.2) is about to be released, here are all the major changes that were made to the game:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New and improved puzzles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6 great new levels have been added, as well as tweaks to improve the existing levels. Thanks to user feedback a few problematic levels have been moved on to the bonus stage where they can cause less grief.&lt;/p&gt;
+
+&lt;p&gt;The 4 stages of the previous release have now been merged in to a single main ‘Quest’ stage of 51 levels as well as a second bonus stage for those seeking an extra challenge after completing the game.&lt;/p&gt;
+
+&lt;p&gt;You can now tackle any level of the main stage (expect the last one) without needing to complete or skip proceeding levels. This should prevent users getting stuck and abandoning their efforts, and also allows new levels to be added to the main quest without breaking any logic for existing players.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Payment model change&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Manowar is now free-to-play with ads. Ads are frequency capped and displayed in natural breaks to avoid unnecessary disruptions of gameplay. This will hopefully open up a new audience for the game while still supporting maintenance and improvement into the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Device support&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The game now supports all modern iPhone and iPad devices. A major update to the fundamental way that graphics are managed and scaled will make future accommodations for new screen resolutions much more simple to implement.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks for your continued support of the game. Good luck!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://appstore.com/manowar&quot;&gt;App store link&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Thu, 11 Jul 2019 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2019/07/11/1.2-update/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2019/07/11/1.2-update/index.html</guid>
+			</item>
+		
+			<item>
+				<title>New level preview (Q39-ADP)</title>
+				<description>&lt;p&gt;This is a preview of new level Q39-ADP:&lt;/p&gt;
+
+&lt;!--
+
+Usage:
+include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
+credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
+
+--&gt;
+
+&lt;p class=&quot;text-center img-wrapper&quot;&gt;
+&lt;a href=&quot;/img/hires/Q39-ADP.jpg&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;/img/hires/Q39-ADP.jpg&quot; alt=&quot;Q39-ADP&quot; class=&quot;post-pic-med&quot; /&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+</description>
+				<pubDate>Wed, 03 Jul 2019 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2019/07/03/new-level/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2019/07/03/new-level/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Puzzle App Game of the Year Award!</title>
 				<description>&lt;p&gt;I’m very pleased to learn that Manowar has won a Puzzle App Game of the Year (PAYG) award, in the Best Physics Puzzle category. 
 The awards are curated by puzzle authority Tom Cutrofello (&lt;a href=&quot;https://twitter.com/labmicepuzzles&quot;&gt;@labmicepuzzles&lt;/a&gt;) who runs the superb Gotta Solve It
@@ -434,203 +487,6 @@ credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot;
 				<pubDate>Tue, 24 Feb 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/02/24/trailer-preview/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/24/trailer-preview/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Tutorial illustrations</title>
-				<description>
-&lt;!--
-
-Usage:
-include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
-credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
-
---&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-
-
-&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
-
-
-
-
-
-
-
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/tute-icons-1536by887-b89aaa.png&quot; media=&quot;(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 480px) and (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/tute-icons-768by444-b89aaa.png&quot; media=&quot;(min-width: 480px)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/tute-icons-900by520-b89aaa.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/tute-icons-450by260-b89aaa.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/tute-icons-450by260-b89aaa.png&quot; class=&quot;post-pic-full&quot; alt=&quot;Tutorial illustrations&quot; /&gt;
-  &lt;/picture&gt;
-
-
-
-
-
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-</description>
-				<pubDate>Mon, 09 Feb 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/02/09/tutorial-illustrations/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/09/tutorial-illustrations/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Meet the crew</title>
-				<description>
-&lt;!--
-
-Usage:
-include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
-credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
-
---&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-
-
-&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
-
-
-
-
-
-
-
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-0-900by900-c45477.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-0-450by450-c45477.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/ball-big-0-450by450-c45477.png&quot; class=&quot;post-pic-med&quot; alt=&quot;CSalty&quot; /&gt;
-  &lt;/picture&gt;
-
-
-
-
-
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Salty&lt;/p&gt;
-
-&lt;!--
-
-Usage:
-include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
-credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
-
---&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-
-
-&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
-
-
-
-
-
-
-
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-1-900by900-cc9723.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-1-450by450-cc9723.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/ball-big-1-450by450-cc9723.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Dickie&quot; /&gt;
-  &lt;/picture&gt;
-
-
-
-
-
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Dickie&lt;/p&gt;
-
-&lt;!--
-
-Usage:
-include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
-credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
-
---&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-
-
-&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
-
-
-
-
-
-
-
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-2-900by900-45a07c.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-2-450by450-45a07c.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/ball-big-2-450by450-45a07c.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Bruiser&quot; /&gt;
-  &lt;/picture&gt;
-
-
-
-
-
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Bruiser&lt;/p&gt;
-
-&lt;!--
-
-Usage:
-include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
-credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
-
---&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-
-
-&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;
-
-
-
-
-
-
-
-&lt;picture&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-3-900by900-e08a80.png&quot; media=&quot;(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)&quot; /&gt;
-    &lt;source srcset=&quot;/img-resized/ball-big-3-450by450-e08a80.png&quot; /&gt;
-    &lt;img srcset=&quot;/img-resized/ball-big-3-450by450-e08a80.png&quot; class=&quot;post-pic-med&quot; alt=&quot;Rolly&quot; /&gt;
-  &lt;/picture&gt;
-
-
-
-
-
-
-
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Rolly&lt;/p&gt;
-</description>
-				<pubDate>Mon, 09 Feb 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/02/09/meet-the-crew/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/09/meet-the-crew/index.html</guid>
 			</item>
 		
 	</channel>
