@@ -7,6 +7,17 @@
 		<atom:link href="http://manowargame.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Underrated Puzzle Games To Play On IOS</title>
+				<description>&lt;p&gt;Manowar was lucky enough to be featured on a recent list of underrated puzzle games over at &lt;a href=&quot;https://gameskeys.net/underrated-puzzle-games-to-play-on-ios/&quot;&gt;gameskeys.net&lt;/a&gt;. Some real gems on that list.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gameskeys.net/underrated-puzzle-games-to-play-on-ios/&quot;&gt;Check out the full article here&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 15 Sep 2020 00:00:00 +1000</pubDate>
+				<link>http://manowargame.com/blog/2020/09/15/underated-puzzle-games/index.html</link>
+				<guid isPermaLink="true">http://manowargame.com/blog/2020/09/15/underated-puzzle-games/index.html</guid>
+			</item>
+		
+			<item>
 				<title>Version 1.2 update</title>
 				<description>&lt;p&gt;As the new app version (1.2) is about to be released, here are all the major changes that were made to the game:&lt;/p&gt;
 
@@ -462,31 +473,6 @@ the final game.&lt;/p&gt;
 				<pubDate>Mon, 13 Apr 2015 00:00:00 +1000</pubDate>
 				<link>http://manowargame.com/blog/2015/04/13/unused-sound-effects/index.html</link>
 				<guid isPermaLink="true">http://manowargame.com/blog/2015/04/13/unused-sound-effects/index.html</guid>
-			</item>
-		
-			<item>
-				<title>Trailer preview</title>
-				<description>
-&lt;!--
-
-Usage:
-include post-img.html img=&quot;jaws.jpg&quot; img_preset=&quot;post_full|post_med|post_small&quot; alt=&quot;Jaws movie poster&quot; is_fixed_size=true
-credit_url=&quot;http://theonion.com&quot; credit_url_name=&quot;The Onion&quot; credit_title=&quot;The Mona Lisa&quot;
-
---&gt;
-
-&lt;p class=&quot;text-center img-wrapper&quot;&gt;
-&lt;a href=&quot;/img/hires/trailer-title.gif&quot; target=&quot;_blank&quot;&gt;
-&lt;img src=&quot;/img/hires/trailer-title.gif&quot; alt=&quot;&quot; class=&quot;post-pic-med&quot; /&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Building the trailer now.&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 24 Feb 2015 00:00:00 +1000</pubDate>
-				<link>http://manowargame.com/blog/2015/02/24/trailer-preview/index.html</link>
-				<guid isPermaLink="true">http://manowargame.com/blog/2015/02/24/trailer-preview/index.html</guid>
 			</item>
 		
 	</channel>
